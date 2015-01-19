@@ -418,7 +418,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_37.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -502,7 +502,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_41.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -1177,7 +1177,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_3.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -1261,7 +1261,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_3.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -1345,7 +1345,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_warlock_0_3.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -3043,7 +3043,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_8.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3127,7 +3127,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_8.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -3211,7 +3211,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_warlock_0_8.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -3634,7 +3634,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_10.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3718,7 +3718,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_10.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -7351,7 +7351,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_35.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -7435,7 +7435,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_35.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -7519,7 +7519,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_warlock_0_35.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -11167,7 +11167,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_25.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -11251,7 +11251,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_27.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -11335,7 +11335,7 @@ var slot_data_WL = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_warlock_0_26.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	}

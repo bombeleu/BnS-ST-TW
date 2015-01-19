@@ -668,7 +668,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_31.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -751,7 +751,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_39.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -834,7 +834,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_1_39.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -1432,7 +1432,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_29.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -1517,7 +1517,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_40.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -1602,7 +1602,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_29.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -2285,7 +2285,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_41.png\' class=\'icon_in_description\' /> On critical hit with Destroy  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_41.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -2370,7 +2370,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_46.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -2455,7 +2455,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_46.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -3810,7 +3810,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_13.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3894,7 +3894,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_13.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -3978,7 +3978,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_13.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -4569,7 +4569,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_4.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4653,7 +4653,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_4.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -4737,7 +4737,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_1_4.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -4821,7 +4821,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  ",
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_destroyer_1_4.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -5334,7 +5334,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_3.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -5419,7 +5419,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_3.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6097,7 +6097,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_46.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6772,7 +6772,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_5.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -6856,7 +6856,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_5.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -6940,7 +6940,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_5.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -7453,7 +7453,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_62.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -7538,7 +7538,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_62.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -8221,7 +8221,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_48.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -8306,7 +8306,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_48.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -8391,7 +8391,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_48.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -9234,7 +9234,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_24.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9318,7 +9318,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_24.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -9402,7 +9402,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_24.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -9486,7 +9486,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_destroyer_0_24.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -10329,7 +10329,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_43.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -10413,7 +10413,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_43.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -10497,7 +10497,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_1_43.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -10581,7 +10581,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_destroyer_1_44.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -11256,7 +11256,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_5.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -11340,7 +11340,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_22.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -11424,7 +11424,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_0_23.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -11931,7 +11931,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_60.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -12015,7 +12015,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_60.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -12358,7 +12358,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_63.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -12865,7 +12865,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_0_59.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -12949,7 +12949,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> When the target blocks, evades an attack  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_0_59.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -13624,7 +13624,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_45.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -13708,7 +13708,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_17.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -14299,7 +14299,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_destroyer_1_19.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -14383,7 +14383,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_destroyer_1_32.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -14467,7 +14467,7 @@ var slot_data_DE = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_destroyer_1_32.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	}

@@ -61,7 +61,7 @@ function applyBuild() {
 				<a class="m5" href="../AS/skillAS.html"><span>Assassin</span></a>
 				<a class="m6" href="../SU/skillSU.html"><span>Summoner</span></a>
 				<a class="m7 on" href="../SM/skillSM.html"><span>Lyn Blade Master</span></a>
-				<a class="m8" href="../WL/skillWL.html"><span>Warlock</span></a>
+				 
 				<a id="save" href="#" onclick="expand2()"><span>Save/Load Build</span></a>
 			</nav>
 		</div>
@@ -71,30 +71,9 @@ function applyBuild() {
 				<div class="builds">
 					<ul class="tabs" id="buildlist">
 						<li><a href="#" onclick="blank();" style="display:none;">Blank Template</a></li>
-						<p class="section">PvE</p>
-							<li><a href="#" onclick="diel_pve_build1();">
-								<p class="builder">Di'el's</p>
-								<p class="levelreq">Lv50 H12</p>
-								<p class="title">Default Build</p>
-							</a></li>
-						<p class="section">PvP</p>
-							<li><a href="#" onclick="diel_pvp_build1();">
-								<p class="builder">Di'el's</p>
-								<p class="levelreq">Lv50 H12</p>
-								<p class="title">1v1 Build</p>
-							</a></li>
 					</ul>
 					<div class="panes">
 						<div>
-							</div>
-						<div>
-							<p class="date">Default LBM Build by Di'el</p>
-							This is a build I normally use for most situations<br>
-							</div>
-						<!-- pve-pvp boundary -->
-						<div>
-							<p class="date">1v1 Build by Di'el</p>
-							No description<br>
 							</div>
 					</div>
 					<ul class="back">
@@ -124,11 +103,11 @@ function applyBuild() {
 		
 								_training = new nc.bns.training.Training({
 									containerSelector:".trWrap",
-									level: 50,
-									masteryLevel: 12,
+									level: 45,
+									masteryLevel: 0,
 									job: "SM",
 									masteryTitle: "Divine Level ",
-									maxLevel: 50
+									maxLevel: 45
 									});
 										
 								//reset button

@@ -586,7 +586,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -670,7 +670,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -1936,7 +1936,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_33.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -2020,7 +2020,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -3042,7 +3042,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_8.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3127,7 +3127,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_8.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -3212,7 +3212,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_assassin_0_50.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -3887,7 +3887,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_17.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3971,7 +3971,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_17.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -4055,7 +4055,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_assassin_0_17.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -4898,7 +4898,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4982,7 +4982,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -5066,7 +5066,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6587,7 +6587,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -6671,7 +6671,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -9041,7 +9041,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_42.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9125,7 +9125,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_42.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -9209,7 +9209,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_assassin_0_55.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -9293,7 +9293,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_assassin_1_9.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -9884,7 +9884,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_60.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9968,7 +9968,7 @@ var slot_data_AS = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_60.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},

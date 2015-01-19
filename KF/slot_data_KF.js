@@ -754,7 +754,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_42.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -838,7 +838,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_63.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -922,7 +922,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_14.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -1681,7 +1681,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_41.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -1765,7 +1765,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_41.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -1849,7 +1849,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_41.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -1933,7 +1933,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_kungfufighter_0_41.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -2860,7 +2860,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_1.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -2944,7 +2944,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_5.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -3028,7 +3028,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -3112,7 +3112,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_kungfufighter_0_1.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -3889,7 +3889,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_5.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3975,7 +3975,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_41.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -4061,7 +4061,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_45.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -4904,7 +4904,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_21.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4988,7 +4988,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_21.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -5072,7 +5072,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_21.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -5156,7 +5156,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_kungfufighter_0_21.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -5754,7 +5754,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_40.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -5839,7 +5839,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_49.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -5924,7 +5924,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_49.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6515,7 +6515,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_38.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -6599,7 +6599,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_38.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -7190,7 +7190,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -7274,7 +7274,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_6.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -7358,7 +7358,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_31.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -8456,7 +8456,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_25.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -8540,7 +8540,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_25.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -8624,7 +8624,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_24.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -8708,7 +8708,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_kungfufighter_0_25.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -9215,7 +9215,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9299,7 +9299,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_33.png\' class=\'icon_in_description\' /> Target with Pressure Point  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_20.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -10565,7 +10565,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> On counter  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_46.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -10649,7 +10649,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> On counter  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_0_2.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -10733,7 +10733,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> On counter  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_0_2.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -11240,7 +11240,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_13.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -11324,7 +11324,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_40.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -11663,7 +11663,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_0_24.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -12338,7 +12338,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -12422,7 +12422,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -12506,7 +12506,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_kungfufighter_1_18.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -14114,7 +14114,7 @@ var slot_data_KF = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_2.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	}

@@ -670,7 +670,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_2.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -754,7 +754,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_2.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -838,7 +838,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_2.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -922,7 +922,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_summon_0_2.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -1513,7 +1513,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_8.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -1597,7 +1597,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_8.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -1681,7 +1681,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_39.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -1765,7 +1765,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_summon_0_39.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -2444,7 +2444,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_9.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -2528,7 +2528,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_40.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -2612,7 +2612,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_40.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -2696,7 +2696,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_summon_0_40.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -3539,7 +3539,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_10.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3623,7 +3623,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_10.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -3707,7 +3707,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_10.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -3791,7 +3791,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_summon_0_10.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -4298,7 +4298,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_6.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4382,7 +4382,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_42.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -4466,7 +4466,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_42.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -4805,7 +4805,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_28.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4889,7 +4889,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_44.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -5480,7 +5480,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_11.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -5564,7 +5564,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_11.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -5648,7 +5648,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_11.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6330,7 +6330,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_34.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -6414,7 +6414,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_26.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -6498,7 +6498,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_26.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -6582,7 +6582,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "buff_debuff_icon_03_21.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -7701,7 +7701,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_16.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -7785,7 +7785,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_16.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -8292,7 +8292,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_14.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -8376,7 +8376,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_14.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -8715,7 +8715,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_7.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -9222,7 +9222,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_17.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9306,7 +9306,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_17.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -9390,7 +9390,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_summon_0_17.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -10917,7 +10917,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_kungfufighter_1_2.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -11340,7 +11340,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_summon_0_21.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -11424,7 +11424,7 @@ var slot_data_SU = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_summon_0_21.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},

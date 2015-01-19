@@ -586,7 +586,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -670,7 +670,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -754,7 +754,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -1345,7 +1345,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -1429,7 +1429,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -1513,7 +1513,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -2188,7 +2188,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -2272,7 +2272,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -2356,7 +2356,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -2695,7 +2695,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_35.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -2950,7 +2950,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_2_10.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3034,7 +3034,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_2_10.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -3709,7 +3709,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3793,7 +3793,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -3877,7 +3877,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -4633,7 +4633,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4717,7 +4717,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -4801,7 +4801,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -5476,7 +5476,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_5.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -5560,7 +5560,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_56.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -5644,7 +5644,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_56.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -6151,7 +6151,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -6235,7 +6235,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -6319,7 +6319,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_blademaster_1_12.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6913,7 +6913,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -6997,7 +6997,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -7672,7 +7672,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -7756,7 +7756,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -7840,7 +7840,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -8353,7 +8353,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -8438,7 +8438,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -9113,7 +9113,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9197,7 +9197,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -9281,7 +9281,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -9872,7 +9872,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_58.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9956,7 +9956,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_58.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -10040,7 +10040,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_2_17.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -10124,7 +10124,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_swordmaster_2_18.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -10718,7 +10718,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -10802,7 +10802,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -11816,7 +11816,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -11900,7 +11900,7 @@ var slot_data_SM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},

@@ -670,7 +670,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_32.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -754,7 +754,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_32.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -838,7 +838,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_32.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -1597,7 +1597,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_31.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -1681,7 +1681,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_31.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -1765,7 +1765,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_34.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -2440,7 +2440,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_6.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -2524,7 +2524,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_6.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -2608,7 +2608,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_6.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"54": 
@@ -2692,7 +2692,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_forcemaster_1_11.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -3367,7 +3367,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_33.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -3451,7 +3451,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_33.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -4042,7 +4042,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_15.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4126,7 +4126,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_43.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -4210,7 +4210,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_57.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -4893,7 +4893,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -4978,7 +4978,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_1.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -5063,7 +5063,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> After using Gravity Field  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_7.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -6248,7 +6248,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit with a Flame spell  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_1_7.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -7007,7 +7007,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_20.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -7091,7 +7091,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_20.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -7175,7 +7175,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_46.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -8108,7 +8108,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_22.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -8192,7 +8192,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_22.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -8867,7 +8867,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_25.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -8951,7 +8951,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_25.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -9035,7 +9035,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_25.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -9710,7 +9710,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On criticall hit with a Frost spell  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_38.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -9794,7 +9794,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On criticall hit with a Frost spell  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_38.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -9878,7 +9878,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On criticall hit with a Frost spell  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_38.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -10385,7 +10385,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed, seized, force gripped <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_11.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -10469,7 +10469,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_11.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -11567,7 +11567,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_10.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -11651,7 +11651,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_10.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -11735,7 +11735,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_36.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
@@ -12924,7 +12924,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_41.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -13008,7 +13008,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_41.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		}
 	},
@@ -13683,7 +13683,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_forcemaster_0_64.png",
-				"required_tp": 3
+				"required_tp": 1
 			}
 		},
 		"52": 
@@ -13767,7 +13767,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_forcemaster_0_64.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		},
 		"53": 
@@ -13851,7 +13851,7 @@ var slot_data_FM = {
 				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_forcemaster_0_64.png",
-				"required_tp": 2
+				"required_tp": 1
 			}
 		}
 	},
