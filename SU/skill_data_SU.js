@@ -4187,7 +4187,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_28.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Replaces Meow~ with Twirl<br/>Automatically used by the familiar<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
+        "sub_info": "Meow~ is replaced with Twirl<br/>Automatically used by the familiar<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4219,7 +4219,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_28.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Replaces Meow~ with Twirl<br/>Automatically used by the familiar<br/>Twirl deflects 1 attack for 0.5 sec<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
+        "sub_info": "Meow~ is replaced with Twirl<br/>Automatically used by the familiar<br/>Twirl deflects 1 attack for 0.5 sec<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

@@ -2021,7 +2021,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_13.png",
         "main_info1": "Move behind the target around their right",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze<br/>Counteroffensive is available with [Q]",
+        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze<br/>Counterattack [Q] is replaced with Counteroffensive",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2085,7 +2085,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_21.png",
         "main_info1": "Move behind the target around their left",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze<br/>Counteroffensive is available with [Q]<br/>Counterattack and Counteroffensive have separate cooldowns",
+        "sub_info": "Maximum speed Sunder is available after use<br/>Breaks the user out of freeze<br/>Counterattack [Q] is replaced with Counteroffensive<br/>Counterattack and Counteroffensive have separate cooldowns",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

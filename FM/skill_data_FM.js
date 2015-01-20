@@ -2821,7 +2821,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_19.png",
         "main_info1": "Move back 8m",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Removes all immobilize effects<br/>Used with [S][S]",
+        "sub_info": "Removes all immobilize effects<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2853,7 +2853,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_19.png",
         "main_info1": "Move back 14m",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Removes all immobilize effects<br/>Used with [S][S]",
+        "sub_info": "Removes all immobilize effects<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2885,7 +2885,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_19.png",
         "main_info1": "Move back 14m",
         "main_info2": "Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use",
-        "sub_info": "Freezes foes for 5 sec<br/>Removes all immobilize effects<br/>Used with [S][S]",
+        "sub_info": "Freezes foes for 5 sec<br/>Removes all immobilize effects<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
