@@ -79,7 +79,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 1
@@ -163,7 +163,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 1
@@ -247,7 +247,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 1
@@ -331,7 +331,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 1
@@ -415,7 +415,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 1
@@ -499,7 +499,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 1
@@ -574,7 +574,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
 				"complete_quest_name_refine": "Gale  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -583,7 +583,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 2
@@ -658,7 +658,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
 				"complete_quest_name_refine": "Gale  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -667,7 +667,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 3
@@ -742,7 +742,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0226",
 				"complete_quest_name_refine": "Gale  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -751,7 +751,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_1.png",
 				"required_tp": 2
@@ -837,7 +837,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -921,7 +921,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1005,7 +1005,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1089,7 +1089,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1173,7 +1173,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1257,7 +1257,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1333,7 +1333,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0398",
 				"complete_quest_name_refine": "Sunder Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -1341,7 +1341,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1417,7 +1417,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "Sunder Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -1425,7 +1425,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1501,7 +1501,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "Sunder Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -1509,7 +1509,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_1.png",
@@ -1596,7 +1596,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -1680,7 +1680,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -1764,7 +1764,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -1848,7 +1848,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -1932,7 +1932,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -2016,7 +2016,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -2100,7 +2100,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -2176,7 +2176,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "Pinwheel Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -2184,7 +2184,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -2260,7 +2260,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "Pinwheel Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -2268,7 +2268,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -2344,7 +2344,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0119",
 				"complete_quest_name_refine": "Pinwheel Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -2352,7 +2352,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_3.png",
@@ -2439,7 +2439,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_35.png",
@@ -2523,7 +2523,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_35.png",
@@ -2607,7 +2607,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_35.png",
@@ -2691,7 +2691,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_35.png",
@@ -2779,7 +2779,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_15.png",
 				"required_tp": 1
@@ -2863,7 +2863,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_2_10.png",
 				"required_tp": 1
@@ -2947,7 +2947,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_2_10.png",
 				"required_tp": 2
@@ -3031,7 +3031,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_2_10.png",
 				"required_tp": 3
@@ -3117,7 +3117,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3201,7 +3201,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3285,7 +3285,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3369,7 +3369,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3453,7 +3453,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3537,7 +3537,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_blademaster_1_11.png",
@@ -3621,7 +3621,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3705,7 +3705,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3789,7 +3789,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3873,7 +3873,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_23.png",
@@ -3960,7 +3960,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4041,7 +4041,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4125,7 +4125,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4209,7 +4209,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4293,7 +4293,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4377,7 +4377,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4461,7 +4461,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4545,7 +4545,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4629,7 +4629,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4713,7 +4713,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4797,7 +4797,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_0_4.png",
@@ -4884,7 +4884,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_5.png",
@@ -4968,7 +4968,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_5.png",
@@ -5220,7 +5220,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_5.png",
@@ -5472,7 +5472,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_5.png",
@@ -5727,7 +5727,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
@@ -5811,7 +5811,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
@@ -5895,7 +5895,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_blademaster_1_12.png",
@@ -5979,7 +5979,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
@@ -6063,7 +6063,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_blademaster_1_12.png",
@@ -6147,7 +6147,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
@@ -6231,7 +6231,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_9.png",
@@ -6315,7 +6315,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_blademaster_1_12.png",
@@ -6490,7 +6490,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 1
@@ -6574,7 +6574,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 1
@@ -6658,7 +6658,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 1
@@ -6742,7 +6742,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 1
@@ -6826,7 +6826,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 1
@@ -6910,7 +6910,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 3
@@ -6994,7 +6994,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_0_6.png",
 				"required_tp": 2
@@ -7081,7 +7081,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7165,7 +7165,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7249,7 +7249,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7333,7 +7333,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7417,7 +7417,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7501,7 +7501,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7585,7 +7585,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 1
@@ -7669,7 +7669,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 3
@@ -7753,7 +7753,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 2
@@ -7837,7 +7837,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_11.png",
 				"required_tp": 2
@@ -7925,7 +7925,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 1
@@ -8010,7 +8010,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 1
@@ -8095,7 +8095,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 1
@@ -8180,7 +8180,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 1
@@ -8265,7 +8265,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 1
@@ -8350,7 +8350,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 2
@@ -8435,7 +8435,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_19.png",
 				"required_tp": 3
@@ -8521,7 +8521,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -8605,7 +8605,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -8689,7 +8689,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -8773,7 +8773,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -8857,7 +8857,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -8941,7 +8941,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -9025,7 +9025,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -9101,7 +9101,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
 				"complete_quest_name_refine": "Lightning Slash  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -9109,7 +9109,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -9185,7 +9185,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
 				"complete_quest_name_refine": "Lightning Slash  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -9193,7 +9193,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -9269,7 +9269,7 @@ var slot_data_SM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0375",
 				"complete_quest_name_refine": "Lightning Slash  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -9277,7 +9277,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_swordmaster_1_21.png",
@@ -10207,8 +10207,8 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_10.png",
 				"required_tp": 1
@@ -10295,7 +10295,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 1
@@ -10379,7 +10379,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 1
@@ -10463,7 +10463,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 1
@@ -10547,7 +10547,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 1
@@ -10631,7 +10631,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 1
@@ -10715,7 +10715,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 3
@@ -10799,7 +10799,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_34.png",
 				"required_tp": 3
@@ -10885,7 +10885,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_64.png",
@@ -10969,7 +10969,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_64.png",
@@ -11053,7 +11053,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_64.png",
@@ -11221,7 +11221,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_64.png",
@@ -11305,7 +11305,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_64.png",
@@ -11389,7 +11389,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance on critical hit if Draw is learned  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance on critical hit if Draw is learned  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_swordmaster_2_22.png",
@@ -11476,7 +11476,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
@@ -11560,7 +11560,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
@@ -11644,7 +11644,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
@@ -11728,7 +11728,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
@@ -11812,7 +11812,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
@@ -11896,7 +11896,7 @@ var slot_data_SM = {
 					"1": "발도술",
 					"2": null
 				},
-				"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+				"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 				"tooltip_condition_refine": null,
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_swordmaster_1_24.png",
@@ -11984,7 +11984,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_7.png",
 				"required_tp": 1
@@ -12068,7 +12068,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_7.png",
 				"required_tp": 1
@@ -12152,7 +12152,7 @@ var slot_data_SM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_swordmaster_0_7.png",
 				"required_tp": 1

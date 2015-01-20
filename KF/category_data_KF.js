@@ -134,7 +134,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> Target incapacitated  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> Target incapacitated  "
 	},
 	"21106": 
 	{
@@ -230,7 +230,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  "
 	},
 	"21116": 
 	{
@@ -255,7 +255,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
 	},
 	"21142": 
 	{
@@ -280,7 +280,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
 	},
 	"21143": 
 	{
@@ -305,7 +305,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
 	},
 	"21158": 
 	{
@@ -332,7 +332,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  "
 	},
 	"21406": 
 	{
@@ -359,7 +359,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target seized, force gripped  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
 	},
 	"21055": 
 	{
@@ -424,7 +424,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  "
 	},
 	"21107": 
 	{
@@ -512,7 +512,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> On counter  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> On counter  "
 	},
 	"21200": 
 	{
@@ -633,7 +633,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"21285": 
 	{
@@ -659,7 +659,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"21112": 
 	{
@@ -689,7 +689,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
 	},
 	"21125": 
 	{
@@ -714,7 +714,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_46.png\' class=\'icon_in_description\' /> After using Triple Kick, Flame Kick  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> On block  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_kungfufighter_1_46.png\' class=\'icon_in_description\' /> After using Triple Kick, Flame Kick  <br/><img src=\'../img/skill/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> On block  "
 	},
 	"21132": 
 	{
@@ -739,7 +739,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"21175": 
 	{
@@ -764,7 +764,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
 	},
 	"21205": 
 	{
@@ -799,7 +799,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"21030": 
 	{
@@ -829,7 +829,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> After using Ankle Blow  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> After using Ankle Blow  "
 	},
 	"21134": 
 	{
@@ -854,7 +854,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"21145": 
 	{
@@ -910,7 +910,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> After using Crushing Strike  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> After using Crushing Strike  "
 	},
 	"21256": 
 	{
@@ -935,7 +935,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_3.png\' class=\'icon_in_description\' /> On critical hit with Palm Strike  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> After using Tier3 Class2 Iron Mountain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_63.png\' class=\'icon_in_description\' /> After using Tiger Palm  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_kungfufighter_1_3.png\' class=\'icon_in_description\' /> On critical hit with Palm Strike  <br/><img src=\'../img/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> After using Tier3 Class2 Iron Mountain  <br/><img src=\'../img/skill/skill_icon_kungfufighter_0_63.png\' class=\'icon_in_description\' /> After using Tiger Palm  "
 	},
 	"21166": 
 	{
@@ -960,7 +960,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	"21180": 
 	{
@@ -985,7 +985,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
 	},
 	"21181": 
 	{
@@ -1010,7 +1010,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"21182": 
 	{
@@ -1035,7 +1035,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"21136": 
 	{
@@ -1060,7 +1060,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
 	},
 	"21070": 
 	{
@@ -1093,7 +1093,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'../img/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack, Backward Roll <br><img src=\'../img/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> Target knocked back with pointless, Class1, Class3 Iron Mountain  "
 	},
 	"21146": 
 	{
@@ -1118,7 +1118,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> On evade  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> On evade  "
 	},
 	"21385": 
 	{
@@ -1143,7 +1143,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack  "
 	},
 	"21060": 
 	{
@@ -1238,7 +1238,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"21144": 
 	{
@@ -1263,7 +1263,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
 	},
 	"21114": 
 	{
@@ -1288,7 +1288,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Using Suppress  "
 	},
 	"21090": 
 	{
@@ -1313,7 +1313,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"21609": 
 	{
@@ -1342,7 +1342,7 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Martial Dance, Backtrack  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> On hit with Palm Strike  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> On critical hit with Advancing Fist  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> After using Tier4 Class2 Ankle Blow  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Martial Dance, Backtrack  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> On hit with Palm Strike  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> On critical hit with Advancing Fist  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> After using Tier4 Class2 Ankle Blow  "
 	},
 	"21979": 
 	{
@@ -1367,6 +1367,6 @@ var category_data_KF = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_42.png\' class=\'icon_in_description\' /> After using Kaiten Kick  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Martial Dance, Backtrack  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> On hit with Palm Strike  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> On critical hit with Advancing Fist  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> After using Tier4 Class2 Ankle Blow  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_kungfufighter_1_42.png\' class=\'icon_in_description\' /> After using Kaiten Kick  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Martial Dance, Backtrack  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist with Penetrate, Sidestep  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> On hit with Palm Strike  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> On critical hit with Advancing Fist  <br/><img src=\'../img/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> After using Tier4 Class2 Ankle Blow  "
 	}
 };

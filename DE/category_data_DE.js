@@ -149,7 +149,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_41.png\' class=\'icon_in_description\' /> On critical hit with Destroy  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_41.png\' class=\'icon_in_description\' /> On critical hit with Destroy  "
 	},
 	"24040": 
 	{
@@ -243,7 +243,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
 	},
 	"24110": 
 	{
@@ -278,7 +278,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  "
 	},
 	"24140": 
 	{
@@ -311,7 +311,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
 	},
 	"24260": 
 	{
@@ -341,7 +341,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> Using Iron Wall  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  <br/><img src=\'../img/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> Using Iron Wall  "
 	},
 	"24170": 
 	{
@@ -437,7 +437,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
 	},
 	"24240": 
 	{
@@ -463,7 +463,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"24160": 
 	{
@@ -499,7 +499,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"24200": 
 	{
@@ -525,7 +525,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While force gripped  "
 	},
 	"24204": 
 	{
@@ -550,7 +550,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized  "
 	},
 	"24220": 
 	{
@@ -575,7 +575,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"24230": 
 	{
@@ -600,7 +600,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"24060": 
 	{
@@ -663,7 +663,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> Ally incapacitated  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> Ally incapacitated  "
 	},
 	"24251": 
 	{
@@ -688,7 +688,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> While Rescuing an ally  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> While Rescuing an ally  "
 	},
 	"24252": 
 	{
@@ -714,7 +714,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> While Rescuing an ally  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> While Rescuing an ally  "
 	},
 	"24070": 
 	{
@@ -777,7 +777,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
 	},
 	"24207": 
 	{
@@ -802,7 +802,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed  "
 	},
 	"24080": 
 	{
@@ -862,7 +862,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
 	},
 	"24083": 
 	{
@@ -897,7 +897,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"24100": 
 	{
@@ -959,7 +959,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> Using Seize  "
 	},
 	"24120": 
 	{
@@ -991,7 +991,7 @@ var category_data_DE = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit  "
 	},
 	"24090": 
 	{

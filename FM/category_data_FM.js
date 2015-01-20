@@ -197,7 +197,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> After using Gravity Field  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> After using Gravity Field  "
 	},
 	"22300": 
 	{
@@ -256,7 +256,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"22312": 
 	{
@@ -281,7 +281,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"22239": 
 	{
@@ -311,7 +311,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22136": 
 	{
@@ -336,7 +336,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"22237": 
 	{
@@ -366,7 +366,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22117": 
 	{
@@ -391,7 +391,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"22243": 
 	{
@@ -450,7 +450,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22380": 
 	{
@@ -485,7 +485,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"22241": 
 	{
@@ -520,7 +520,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22265": 
 	{
@@ -555,7 +555,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On criticall hit with a Frost spell  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On criticall hit with a Frost spell  "
 	},
 	"22381": 
 	{
@@ -584,7 +584,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit with a Flame spell  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance <br/><img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit with a Flame spell  "
 	},
 	"22141": 
 	{
@@ -609,7 +609,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	"22266": 
 	{
@@ -641,7 +641,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22110": 
 	{
@@ -678,7 +678,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22221": 
 	{
@@ -703,7 +703,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"22238": 
 	{
@@ -739,7 +739,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22371": 
 	{
@@ -767,7 +767,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"22244": 
 	{
@@ -842,7 +842,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"22249": 
 	{
@@ -875,7 +875,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22250": 
 	{
@@ -907,7 +907,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance "
 	},
 	"22260": 
 	{
@@ -939,7 +939,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_30.png\' class=\'icon_in_description\' /> Using Crystallize  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> Frost stance <br/><img src=\'../img/skill/skill_icon_forcemaster_0_30.png\' class=\'icon_in_description\' /> Using Crystallize  "
 	},
 	"22345": 
 	{
@@ -964,7 +964,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"22120": 
 	{
@@ -992,7 +992,7 @@ var category_data_FM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> Flame stance "
 	},
 	"22125": 
 	{
@@ -1024,7 +1024,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  <br/><img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"22390": 
 	{
@@ -1049,7 +1049,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_2.png\' class=\'icon_in_description\' /> 3 Flame Orbs  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_1_2.png\' class=\'icon_in_description\' /> 3 Flame Orbs  "
 	},
 	"22392": 
 	{
@@ -1074,7 +1074,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_3.png\' class=\'icon_in_description\' /> 3 Frost Orbs  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_1_3.png\' class=\'icon_in_description\' /> 3 Frost Orbs  "
 	},
 	"22394": 
 	{
@@ -1104,7 +1104,7 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 3 Flame, Frost Orbs  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 3 Flame, Frost Orbs  "
 	},
 	"22742": 
 	{
@@ -1129,6 +1129,6 @@ var category_data_FM = {
 			"2": "화기"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 1 Flame, Frost Orbs  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 1 Flame, Frost Orbs  "
 	}
 };

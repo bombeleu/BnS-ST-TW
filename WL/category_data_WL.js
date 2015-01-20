@@ -144,7 +144,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  "
 	},
 	"28510": 
 	{
@@ -366,7 +366,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  "
 	},
 	"28170": 
 	{
@@ -612,7 +612,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  "
 	},
 	"28070": 
 	{
@@ -669,7 +669,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, unconscious  "
 	},
 	"28310": 
 	{
@@ -723,7 +723,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"28335": 
 	{
@@ -748,7 +748,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
 	},
 	"28340": 
 	{
@@ -773,7 +773,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	"28230": 
 	{
@@ -876,7 +876,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  "
 	},
 	"28225": 
 	{
@@ -901,7 +901,7 @@ var category_data_WL = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open  "
 	},
 	"28800": 
 	{

@@ -79,7 +79,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 1
@@ -163,7 +163,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 1
@@ -247,7 +247,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 1
@@ -331,7 +331,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 1
@@ -415,7 +415,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 1
@@ -499,7 +499,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 1
@@ -574,7 +574,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
 				"complete_quest_name_refine": "Mist Slash  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -583,7 +583,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 3
@@ -658,7 +658,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0226",
 				"complete_quest_name_refine": "Mist Slash  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -667,7 +667,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_4.png",
 				"required_tp": 2
@@ -1429,7 +1429,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_33.png",
 				"required_tp": 1
@@ -1513,7 +1513,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_33.png",
 				"required_tp": 1
@@ -1597,7 +1597,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_1.png",
 				"required_tp": 1
@@ -1681,7 +1681,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_33.png",
 				"required_tp": 1
@@ -1765,7 +1765,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_1.png",
 				"required_tp": 1
@@ -1849,7 +1849,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_assassin_0_33.png",
 				"required_tp": 1
@@ -1933,7 +1933,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_33.png",
 				"required_tp": 3
@@ -2017,7 +2017,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_1.png",
 				"required_tp": 2
@@ -2104,7 +2104,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_21.png",
 				"required_tp": 1
@@ -2188,7 +2188,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_21.png",
 				"required_tp": 1
@@ -2272,7 +2272,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_21.png",
 				"required_tp": 1
@@ -2356,7 +2356,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_21.png",
 				"required_tp": 1
@@ -2529,7 +2529,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> On counter within 0.5 sec with Block of Wood  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> On counter within 0.5 sec with Block of Wood  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_2_20.png",
 				"required_tp": 1
@@ -3030,7 +3030,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "Heart Stab Part",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3115,7 +3115,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "Heart Stab Part",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3200,7 +3200,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0398",
 				"complete_quest_name_refine": "Firecracker Part",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3875,7 +3875,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "Block of Wood Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3959,7 +3959,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "Block of Wood Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -4043,7 +4043,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0119",
 				"complete_quest_name_refine": "Block of Wood Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -4139,7 +4139,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4223,7 +4223,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4391,7 +4391,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4475,7 +4475,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4559,7 +4559,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4643,7 +4643,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4727,7 +4727,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4811,7 +4811,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "4급 3초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 1
@@ -4886,7 +4886,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
 				"complete_quest_name_refine": "Shadow Slash  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -4895,7 +4895,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 3
@@ -4970,7 +4970,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0375",
 				"complete_quest_name_refine": "Shadow Slash  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -4979,7 +4979,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 2
@@ -5054,7 +5054,7 @@ var slot_data_AS = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
 				"complete_quest_name_refine": "Shadow Slash  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -5063,7 +5063,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_assassin_0_12.png",
 				"required_tp": 3
@@ -5150,7 +5150,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_7.png",
 				"required_tp": 1
@@ -5234,7 +5234,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_7.png",
 				"required_tp": 1
@@ -5318,7 +5318,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_13.png",
 				"required_tp": 1
@@ -5402,7 +5402,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_7.png",
 				"required_tp": 1
@@ -5486,7 +5486,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_13.png",
 				"required_tp": 1
@@ -5573,7 +5573,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_31.png",
 				"required_tp": 1
@@ -5657,7 +5657,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_31.png",
 				"required_tp": 1
@@ -5741,7 +5741,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_31.png",
 				"required_tp": 1
@@ -5825,7 +5825,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  ",
 				"matrix_name": "2급 3초식",
 				"training_icon": "skill_icon_assassin_0_29.png",
 				"required_tp": 1
@@ -5909,7 +5909,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_31.png",
 				"required_tp": 1
@@ -5993,7 +5993,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_31.png",
 				"required_tp": 1
@@ -6077,7 +6077,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_assassin_0_29.png",
 				"required_tp": 1
@@ -6164,7 +6164,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 1
@@ -6248,7 +6248,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 1
@@ -6332,7 +6332,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 1
@@ -6416,7 +6416,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 1
@@ -6500,7 +6500,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "4급 2초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 1
@@ -6584,7 +6584,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 3
@@ -6668,7 +6668,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_assassin_0_22.png",
 				"required_tp": 2
@@ -6755,7 +6755,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_swordmaster_2_15.png",
 				"required_tp": 1
@@ -6839,7 +6839,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_swordmaster_2_15.png",
 				"required_tp": 1
@@ -6923,7 +6923,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 기절  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 기절  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_30.png",
 				"required_tp": 1
@@ -7010,7 +7010,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_41.png",
 				"required_tp": 1
@@ -7094,7 +7094,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_41.png",
 				"required_tp": 1
@@ -7178,7 +7178,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_41.png",
 				"required_tp": 1
@@ -7262,7 +7262,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_59.png",
 				"required_tp": 1
@@ -7346,7 +7346,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_assassin_0_59.png",
 				"required_tp": 1
@@ -7430,7 +7430,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  ",
 				"matrix_name": "3급 4초식",
 				"training_icon": "skill_icon_assassin_0_59.png",
 				"required_tp": 1
@@ -7772,7 +7772,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_2.png",
 				"required_tp": 1
@@ -7856,7 +7856,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_2.png",
 				"required_tp": 1
@@ -7940,7 +7940,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_assassin_0_2.png",
 				"required_tp": 1
@@ -8024,7 +8024,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_assassin_0_2.png",
 				"required_tp": 1
@@ -8111,7 +8111,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_1_12.png",
 				"required_tp": 1
@@ -8195,7 +8195,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_1_12.png",
 				"required_tp": 1
@@ -8279,7 +8279,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_1_12.png",
 				"required_tp": 1
@@ -10052,7 +10052,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_0_63.png",
 				"required_tp": 1
@@ -10136,7 +10136,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_0_63.png",
 				"required_tp": 1
@@ -10220,7 +10220,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_assassin_0_63.png",
 				"required_tp": 1
@@ -10304,7 +10304,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_0_63.png",
 				"required_tp": 1
@@ -10388,7 +10388,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_assassin_0_63.png",
 				"required_tp": 1
@@ -10475,7 +10475,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_assassin_1_8.png",
 				"required_tp": 1
@@ -10559,7 +10559,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_assassin_1_8.png",
 				"required_tp": 1
@@ -10643,7 +10643,7 @@ var slot_data_AS = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_assassin_1_8.png",
 				"required_tp": 1

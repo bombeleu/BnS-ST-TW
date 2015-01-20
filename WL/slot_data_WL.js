@@ -79,7 +79,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_warlock_0_37.png",
 				"required_tp": 1
@@ -163,7 +163,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_warlock_0_37.png",
 				"required_tp": 1
@@ -247,7 +247,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_warlock_0_37.png",
 				"required_tp": 1
@@ -331,7 +331,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_warlock_0_41.png",
 				"required_tp": 1
@@ -406,7 +406,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
 				"complete_quest_name_refine": "Mantra  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Spiral Labyrinth",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -415,7 +415,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_37.png",
 				"required_tp": 3
@@ -490,7 +490,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0226",
 				"complete_quest_name_refine": "Mantra  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Tomb of Sacrifice",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -499,7 +499,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_2.png\' class=\'icon_in_description\' /> After using Disdain  <br/><img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  <br/><img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_41.png",
 				"required_tp": 2
@@ -1165,7 +1165,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "Dimensional Bullet  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -1249,7 +1249,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "Dimensional Bullet  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Snow Jade Palace of Dispair 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -1333,7 +1333,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0398",
 				"complete_quest_name_refine": "Dimensional Bullet  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Sky Island faction rank vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -1685,7 +1685,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_warlock_0_7.png",
 				"required_tp": 1
@@ -1770,7 +1770,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_warlock_0_43.png",
 				"required_tp": 1
@@ -1855,7 +1855,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_warlock_0_7.png",
 				"required_tp": 1
@@ -1940,7 +1940,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "3급 4초식",
 				"training_icon": "skill_icon_warlock_0_43.png",
 				"required_tp": 1
@@ -2025,7 +2025,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "4급 1초식",
 				"training_icon": "skill_icon_warlock_0_7.png",
 				"required_tp": 1
@@ -2110,7 +2110,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_7.png",
 				"required_tp": 1
@@ -2195,7 +2195,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_43.png",
 				"required_tp": 1
@@ -2280,7 +2280,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_warlock_0_7.png",
 				"required_tp": 1
@@ -2365,7 +2365,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_6.png\' class=\'icon_in_description\' /> On block with Warding Charm  ",
 				"matrix_name": "5급 4초식",
 				"training_icon": "skill_icon_warlock_0_43.png",
 				"required_tp": 1
@@ -3031,7 +3031,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "Bounded Field  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Yeti Cave 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3115,7 +3115,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0119",
 				"complete_quest_name_refine": "Bounded Field  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3199,7 +3199,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0119",
 				"complete_quest_name_refine": "Bounded Field  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_getwhere.png\" class=\"icon_in_description\" /> Bean vendor",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3622,7 +3622,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0796",
 				"complete_quest_name_refine": "Raging Spirit  Part 2",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Fierce Battle of the Black Marsh 4 man",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -3706,7 +3706,7 @@ var slot_data_WL = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0375",
 				"complete_quest_name_refine": "Raging Spirit  Part 1",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
+				"complete_quest_desc_refine": "<img src=\"../img/tooltip_party.png\" class=\"icon_in_description\" /> Sky Island Ancient Dragon's Tomb",
 				"complete_achievement_name_refine": null,
 				"tooltip_stance_type": 
 				{
@@ -5323,7 +5323,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_warlock_0_4.png",
 				"required_tp": 1
@@ -5407,7 +5407,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_warlock_0_4.png",
 				"required_tp": 1
@@ -5491,7 +5491,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
 				"matrix_name": "2급 2초식",
 				"training_icon": "skill_icon_warlock_0_4.png",
 				"required_tp": 1
@@ -5575,7 +5575,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  <br/><img src=\'../img/skill/skill_icon_warlock_0_36.png\' class=\'icon_in_description\' /> On critical hit with Open  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_warlock_0_4.png",
 				"required_tp": 1
@@ -5659,7 +5659,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_warlock_0_3.png\' class=\'icon_in_description\' /> On critical hit with Dimensional Bullet  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_warlock_0_4.png",
 				"required_tp": 1
@@ -8194,7 +8194,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "1급 1초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8278,7 +8278,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "2급 1초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8362,7 +8362,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "3급 1초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8446,7 +8446,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "3급 2초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8530,7 +8530,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "3급 3초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8614,7 +8614,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "5급 1초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8698,7 +8698,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "5급 2초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1
@@ -8782,7 +8782,7 @@ var slot_data_WL = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
+				"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_04_49.png\' class=\'icon_in_description\' /> Target Branded  ",
 				"matrix_name": "5급 3초식",
 				"training_icon": "skill_icon_warlock_0_5.png",
 				"required_tp": 1

@@ -31,7 +31,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20103": 
 	{
@@ -64,7 +64,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20105": 
 	{
@@ -98,7 +98,7 @@ var category_data_BM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"20138": 
@@ -165,7 +165,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20115": 
 	{
@@ -196,7 +196,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20126": 
 	{
@@ -228,7 +228,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20230": 
 	{
@@ -257,7 +257,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"20104": 
 	{
@@ -289,7 +289,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20201": 
 	{
@@ -325,7 +325,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"20127": 
 	{
@@ -353,7 +353,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20202": 
 	{
@@ -386,7 +386,7 @@ var category_data_BM = {
 			"1": "어검술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 		"tooltip_condition_refine": null
 	},
 	"20203": 
@@ -423,7 +423,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit with Draw  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit with Draw  "
 	},
 	"20107": 
 	{
@@ -448,7 +448,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"20113": 
 	{
@@ -473,7 +473,7 @@ var category_data_BM = {
 			"1": "발도술",
 			"2": "어검술"
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"20131": 
@@ -499,7 +499,7 @@ var category_data_BM = {
 			"1": "발도술",
 			"2": "어검술"
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
 		"tooltip_condition_refine": null
 	},
 	"20132": 
@@ -558,7 +558,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  "
 	},
 	"20111": 
 	{
@@ -593,7 +593,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"20130": 
 	{
@@ -618,7 +618,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"20151": 
 	{
@@ -643,7 +643,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
 	},
 	"20110": 
 	{
@@ -674,7 +674,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  <br/><img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20133": 
 	{
@@ -699,7 +699,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"20233": 
 	{
@@ -727,7 +727,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"20129": 
 	{
@@ -759,7 +759,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20205": 
 	{
@@ -788,8 +788,8 @@ var category_data_BM = {
 			"1": null,
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"20003": 
 	{
@@ -823,7 +823,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20117": 
 	{
@@ -848,7 +848,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20153": 
 	{
@@ -873,7 +873,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	/* "20312": 
 	{
@@ -898,7 +898,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"20106": 
 	{
@@ -924,7 +924,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_6.png\' class=\'icon_in_description\' /> Using Block  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_blademaster_0_6.png\' class=\'icon_in_description\' /> Using Block  "
 	}, */
 	"20600": 
 	{
@@ -949,7 +949,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
 	},
 	"20601": 
 	{
@@ -974,7 +974,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  <br/><img src=\'../img/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
 	},
 	"20602": 
 	{
@@ -999,7 +999,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
 	},
 	"20603": 
 	{
@@ -1031,7 +1031,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
 	},
 	"20604": 
 	{
@@ -1058,8 +1058,8 @@ var category_data_BM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Dismisses soulblades  ",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
+		"tooltip_stance_refine": "<img src=\'../img/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Dismisses soulblades  ",
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> Conducting soulblades  "
 	},
 	"20306": 
 	{
@@ -1090,8 +1090,8 @@ var category_data_BM = {
 			"1": null,
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> On block  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> On deflect  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_1_11.png\' class=\'icon_in_description\' /> On resist with Tier4 Class2 Sequence Slash  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_24.png\' class=\'icon_in_description\' /> On resist with Tier3 Class2 Pentaslash  "
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> On block  <br/><img src=\'../img/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> On deflect  <br/><img src=\'../img/skill/skill_icon_blademaster_1_11.png\' class=\'icon_in_description\' /> On resist with Tier4 Class2 Sequence Slash  <br/><img src=\'../img/skill/skill_icon_blademaster_0_24.png\' class=\'icon_in_description\' /> On resist with Tier3 Class2 Pentaslash  "
 	},
 	"20118": 
 	{
@@ -1116,7 +1116,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20135": 
 	{
@@ -1141,7 +1141,7 @@ var category_data_BM = {
 			"2": "어검술"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"20150": 
 	{
@@ -1165,8 +1165,8 @@ var category_data_BM = {
 			"1": null,
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  ",
+		"tooltip_condition_refine": "<img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"20142": 
 	{
@@ -1198,7 +1198,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20229": 
 	{
@@ -1223,7 +1223,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  <br/><img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"20981": 
 	{
@@ -1248,6 +1248,6 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	}
 };
