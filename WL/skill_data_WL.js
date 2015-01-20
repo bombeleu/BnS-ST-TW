@@ -69,7 +69,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "sub_info": "User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -101,7 +101,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
+        "sub_info": "User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -133,7 +133,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Overpower increases critical hit damage by 20%<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
+        "sub_info": "Overpower increases critical hit damage by 20%<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -165,7 +165,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Heals the user 10% of their maximum health on hit<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec",
+        "sub_info": "Heals the user 10% of their maximum health on hit<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -197,7 +197,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Stuns foes for 3 sec<br/>Deals 60~70 damage",
-        "sub_info": "Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "sub_info": "User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -229,7 +229,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 15 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Overpower increases critical hit damage by 50%<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
+        "sub_info": "Overpower increases critical hit damage by 50%<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -261,7 +261,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Deals 60~70 damage",
-        "sub_info": "Heals the user 10% of their maximum health on hit<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec<br/>Breaks defense<br/>Dazes defense broken foes for 3 sec<br/>Disables defense abilities of defense broken foes for 6 sec",
+        "sub_info": "Heals the user 10% of their maximum health on hit<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec<br/>Breaks defense<br/>Dazes defense broken foes for 3 sec<br/>Disables defense abilities of defense broken foes for 6 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Overpowers the user for 12 sec",
         "main_info2": "Stuns foes for 3 sec<br/>Deals 60~70 damage",
-        "sub_info": "Cannot be deflected<br/>Overpower generates 1 additional chi per attack<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "sub_info": "Cannot be deflected<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -773,7 +773,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi<br/>",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -805,7 +805,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -837,7 +837,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -869,7 +869,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi over 5 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -901,7 +901,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_41.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra Heals the user 5% of their maximum health<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra heals the user 5% of their maximum health over 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi over 5 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -965,7 +965,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_41.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra Heals the user 1% of their maximum health on critical hit<br/>Mantra Heals the user 5% of their maximum health<br/>Mantra restores 5 chi<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra heals the user 1% of their maximum health on critical hit<br/>Mantra heals the user 5% of their maximum health over 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3781,7 +3781,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Instantly used on Marked foes",
+        "sub_info": "Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3813,7 +3813,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3845,7 +3845,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes",
+        "sub_info": "Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3877,7 +3877,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3909,7 +3909,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3941,7 +3941,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes",
+        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3973,7 +3973,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4005,7 +4005,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4037,7 +4037,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly used on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Addional Deals 12~14 damage on instant use<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4101,7 +4101,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpower is active<br/>Instantly used on Marked foes<br/>Deals 20% chi damage on hit to Marked foes",
+        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage on hit to Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
