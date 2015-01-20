@@ -901,7 +901,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 sec",
         "main_info2": null,
-        "sub_info": "Dazes the countered foe for 2 sec on counter within 0.5 sec<br/>Deals 20% chi damage to the countered enemy<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Dazes the countered target for 2 sec on counter within 0.5 sec<br/>Deals 20% chi damage to the countered enemy<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 sec",
         "main_info2": null,
-        "sub_info": "Blinds, deafens the countered foe for 2 sec on counter<br/>Dazes the countered foe for 2 sec on counter within 0.5 sec<br/>Deals 20% chi damage to the countered enemy<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Blinds, deafens the countered target for 2 sec on counter<br/>Dazes the countered target for 2 sec on counter within 0.5 sec<br/>Deals 20% chi damage to the countered enemy<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -965,7 +965,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -997,7 +997,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Decreases the movement speed of targets hit by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Decreases the movement speed of targets hit by 30% for 8 sec<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1029,7 +1029,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Dazes targets with Deadly Poison for 3 sec<br/>Decreases the movement speed of targets hit by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Dazes targets with Deadly Poison for 3 sec<br/>Decreases the movement speed of targets hit by 30% for 8 sec<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1061,7 +1061,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Dazes targets with Deadly Poison for 3 sec<br/>Knocks-up dazed, stunned targets<br/>Decreases the movement speed of targets hit by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Dazes targets with Deadly Poison for 3 sec<br/>Knocks-up dazed, stunned targets<br/>Decreases the movement speed of targets hit by 30% for 8 sec<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1573,7 +1573,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Applies 1 stack of Deadly Poison on down",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Applies 1 stack of Deadly Poison on down",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1605,7 +1605,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of targets hit for 6 sec<br/>Decreases the movement speed of targets hit by 40% for 6 sec",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of targets hit for 6 sec<br/>Decreases the movement speed of targets hit by 40% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of targets hit for 6 sec<br/>Decreases the movement speed of targets hit by 40% for 6 sec",
+        "sub_info": "Knocks down targets hit for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of targets hit for 6 sec<br/>Decreases the movement speed of targets hit by 40% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2341,7 +2341,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned targets<br/>Generates 1 chi per foe hit<br/>Ignores defense",
+        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned targets<br/>Generates 1 chi per target hit<br/>Ignores defense",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2437,7 +2437,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_29.png",
         "main_info1": "Extends the duration of the target's down, airborne status up to 4 sec",
         "main_info2": null,
-        "sub_info": "Suspended foe is released when they are hit",
+        "sub_info": "Suspended target is released when they are hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2469,7 +2469,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_29.png",
         "main_info1": "Extends the duration of the target's down, airborne status up to 4 sec",
         "main_info2": null,
-        "sub_info": "Suspended foe is released when they are hit",
+        "sub_info": "Suspended target is released when they are hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3141,7 +3141,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_11.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Deadly Poison<br/>Confines targets hit for 15 sec<br/>Confine decreases the movement speed of the foe by 30%",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Confines targets hit for 15 sec<br/>Confine decreases the movement speed of the target by 30%",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -3749,7 +3749,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_36.png",
         "main_info1": "Counters an attack for 1 sec",
         "main_info2": null,
-        "sub_info": "Move behind the enemy. User is stealthed for 6 sec on counter<br/>Stuns the countered foe for 2 sec on counter",
+        "sub_info": "Move behind the enemy. User is stealthed for 6 sec on counter<br/>Stuns the countered target for 2 sec on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3877,7 +3877,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_32.png",
         "main_info1": "Deals 84~98 damage",
         "main_info2": null,
-        "sub_info": "Knockdown targets for 2 sec<br/>Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use<br/>Applies 1 stack of Deadly Poison",
+        "sub_info": "Knocks down targets hit for 2 sec<br/>Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use<br/>Applies 1 stack of Deadly Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4099,7 +4099,7 @@ var skill_data_AS = {
         "id": "25038",
         "name": "Pluck - 은사탄주",
         "icon": "skill_icon_assassin_0_58.png",
-        "main_info1": "Knockdown targets for 3 sec",
+        "main_info1": "Knocks down targets hit for 3 sec",
         "main_info2": null,
         "sub_info": "Deals 30~35 damage",
         "consume_sp": null,
@@ -4515,7 +4515,7 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knockdown targets for 3 sec",
+        "main_info1": "Knocks down targets hit for 3 sec",
         "main_info2": null,
         "sub_info": "Deals 24~28 damage",
         "consume_sp": "2",
@@ -4611,7 +4611,7 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knockdown targets for 3 sec",
+        "main_info1": "Knocks down targets hit for 3 sec",
         "main_info2": null,
         "sub_info": "Deals 24~28 damage",
         "consume_sp": "2",
@@ -4643,7 +4643,7 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knockdown targets for 3 sec",
+        "main_info1": "Knocks down targets hit for 3 sec",
         "main_info2": null,
         "sub_info": "Deals 24~28 damage<br/>Disables charge abilities of targets hit for 6 sec<br/>Decreases the movement speed of targets hit by 40% for 6 sec",
         "consume_sp": "2",
@@ -4675,7 +4675,7 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knockdown targets for 3 sec",
+        "main_info1": "Knocks down targets hit for 3 sec",
         "main_info2": null,
         "sub_info": "Deals 24~28 damage<br/>Disables charge abilities of targets hit for 6 sec<br/>Decreases the movement speed of targets hit by 40% for 6 sec<br/>Ignores defense",
         "consume_sp": "2",
@@ -5029,7 +5029,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_63.png",
         "main_info1": "Stuns targets hit for 2 sec",
         "main_info2": null,
-        "sub_info": "Deals 36~42 damage<br/>Generates 1 chi per foe hit",
+        "sub_info": "Deals 36~42 damage<br/>Generates 1 chi per target hit",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
