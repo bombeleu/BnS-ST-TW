@@ -3,8 +3,8 @@ var category_data_WL = {
 	{
 		"skill_id": "28001",
 		"tree_id": "1",
-		"name2_refine": "Clense<br>염",
-		"name2_refine_en": "Clense",
+		"name2_refine": "Cleanse<br>염",
+		"name2_refine_en": "Cleanse",
 		"pc_level": "1",
 		"pc_mastery_level": null,
 		"complete_quest": "1224",

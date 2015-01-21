@@ -1,7 +1,7 @@
 var skill_data_WL = {
     "Warlock_Spell_Rcombo_Lv1": {
         "id": "28001",
-        "name": "Clense - 염",
+        "name": "Cleanse - 염",
         "icon": "skill_icon_warlock_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
