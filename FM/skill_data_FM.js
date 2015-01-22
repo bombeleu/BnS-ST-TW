@@ -6019,7 +6019,7 @@ var skill_data_FM = {
         "id": "22311",
         "name": "Push - Push",
         "icon": "skill_icon_forcemaster_0_2.png",
-        "main_info1": "Knock back the force gripped target 15m and downs them for 2 sec",
+        "main_info1": "Knock back the force gripped target 15m and down them for 2 sec",
         "main_info2": "Deals 12~14 damage",
         "sub_info": null,
         "consume_sp": null,

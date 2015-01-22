@@ -837,7 +837,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Swallow Blade can be used while dashing, dash-jumping, gliding",
+        "sub_info": "Swallow Blade is available while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -869,7 +869,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Swallow Blade can be used while dashing, dash-jumping, gliding",
+        "sub_info": "Swallow Blade is available while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -901,7 +901,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes by 50% for 3 sec<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
+        "sub_info": "Decreases the movement speed of foes by 50% for 3 sec<br/>Swallow Blade is available while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Knock down foes for 3 sec",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage<br/>Decreases the movement speed of foes by 50% for 3 sec<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
+        "sub_info": "Deals 12~14 damage<br/>Decreases the movement speed of foes by 50% for 3 sec<br/>Swallow Blade is available while dashing, dash-jumping, gliding",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2373,7 +2373,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_13.png",
         "main_info1": "Move behind the target around their right",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Maximum speed Stab is available on resist<br/>Maximum speed World Sunder is available on resist<br/>Flash of Light is available on resist<br/>Counterattack[E] can be used regardless of cooldown while in draw stance",
+        "sub_info": "Maximum speed Stab is available on resist<br/>Maximum speed World Sunder is available on resist<br/>Flash of Light is available on resist<br/>Counterattack[E] is available regardless of cooldown while in draw stance",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4805,7 +4805,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage after 3 sec and downs foes for 3 sec<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Deals 12~14 damage and knock down for 3 sec after 3 sec<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {

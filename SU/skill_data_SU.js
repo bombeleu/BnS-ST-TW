@@ -2235,7 +2235,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Foxtail can be used while the user is downed, dazed, stunned, unconscious<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
+        "sub_info": "Foxtail is available while the user is downed, dazed, stunned, unconscious<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2267,7 +2267,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Removes status effects<br/>Foxtail can be used while the user is under status effects<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
+        "sub_info": "Removes status effects<br/>Foxtail is available while the user is under status effects<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2299,7 +2299,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Pulls nearby foes and downs them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Pulls nearby foes and down them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2331,7 +2331,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and downs them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and down them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2363,7 +2363,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and downs them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and down them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5691,7 +5691,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Friendship can be used while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5723,7 +5723,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec<br/>Friendship can be used while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec<br/>Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
