@@ -6074,7 +6074,7 @@ var skill_data_SU = {
         "name": "Awakened Rose - 각성 장미",
         "icon": "skill_icon_summon_0_47.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Available when Spiritualized",
+        "main_info2": "Available while Spiritualized",
         "sub_info": "Increased consecutive cast speed<br/>Increased projectile speed<br/>Applies 1 stack of Poison<br/>Applies 2 stacks of Poison on critical hit<br/>Poison decreases the defense of the target by 10% per stack<br/>Hornet can be instantly cast on critical hit<br/>Cooldown of Chestnut Burr, Throwing Chestnut Burr is decreased by 2 sec on critical hit<br/>Cannot be deflected<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "1",

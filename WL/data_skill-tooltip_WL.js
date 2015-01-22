@@ -6298,7 +6298,7 @@ var data_skill_tooltip = {
                 "default-text-refine": null
             },
             "1": {
-                "skill": "Warlock_Spell_Drain_Soul_Lv52",
+                "skill": "Warlock_Spell_Drain_Soul_Lv32",
                 "tooltip-group": "sub",
                 "ect-order": "CTE",
                 "effect-attribute": "E_additional_sp_heal_number",
@@ -6307,7 +6307,7 @@ var data_skill_tooltip = {
                 "effect-arg-3": null,
                 "effect-arg-4": null,
                 "condition-attribute": "C_souldrain_attack",
-                "condition-arg-1": "Warlock_Spell_Drain_Soul_Lv1",
+                "condition-arg-1": null,
                 "condition-arg-2": null,
                 "target-attribute": null,
                 "before-stance-attribute": null,

@@ -6851,7 +6851,7 @@ var skill_data_DE = {
         "id": "24590",
         "name": "Awakened Fury - 각성 격노",
         "icon": "skill_icon_destroyer_1_47.png",
-        "main_info1": "Deals 60~70 damage<br/>Available when Spiritualized",
+        "main_info1": "Deals 60~70 damage<br/>Available while Spiritualized",
         "main_info2": null,
         "sub_info": "Maximum speed<br/>Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit bonus lasts for 3 sec<br/>Does not generate threat",
         "consume_sp": null,

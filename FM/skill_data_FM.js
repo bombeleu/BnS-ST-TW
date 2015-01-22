@@ -7012,7 +7012,7 @@ var skill_data_FM = {
         "name": "Awakened Twin Dragon Blast - 각성 쌍룡파",
         "icon": "skill_icon_forcemaster_1_12.png",
         "main_info1": "Deals 216~252 damage",
-        "main_info2": "Available when Spiritualized<br/>Freezes foes for 5 sec",
+        "main_info2": "Available while Spiritualized<br/>Freezes foes for 5 sec",
         "sub_info": "Generates 5 chi<br/>Applies 5 stacks of Ember<br/>Does not generate threat<br/>",
         "consume_sp": null,
         "ui_sp_heal_value": null,

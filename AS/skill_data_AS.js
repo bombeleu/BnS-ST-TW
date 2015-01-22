@@ -1061,7 +1061,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knock down foes for 3 sec<br/>Dazes foes with Deadly Poison for 3 sec<br/>Knock dazed, stunned foes<br/>Decreases the movement speed of foes into the air hit by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knock down foes for 3 sec<br/>Dazes foes with Deadly Poison for 3 sec<br/>Knock dazed, stunned foes into the air<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5668,7 +5668,7 @@ var skill_data_AS = {
         "name": "Awakened Lightning Kill - 각성 뇌전살",
         "icon": "skill_icon_assassin_1_17.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Available when Spiritualized",
+        "main_info2": "Available while Spiritualized",
         "sub_info": "Applies 1 stack of Deadly Poison<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "1",

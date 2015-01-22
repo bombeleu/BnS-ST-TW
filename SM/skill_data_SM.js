@@ -5892,7 +5892,7 @@ var skill_data_SM = {
         "name": "Awakened Flash Draw - 각성 쾌검",
         "icon": "skill_icon_swordmaster_2_23.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Available when Spiritualized",
+        "main_info2": "Available while Spiritualized",
         "sub_info": "Maximum speed<br/>Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Does not generate threat",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
