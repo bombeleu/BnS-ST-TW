@@ -1509,7 +1509,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Stuns foes for 2 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cooldown of Rupture on hit<br/>Rupture can be instantly used is refreshed on hit<br/>Cannot be deflected",
+        "sub_info": "Cooldown of Rupture is refreshed on hit<br/>Rupture can be instantly used on hit<br/>Cannot be deflected",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3973,7 +3973,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4005,7 +4005,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly used on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4037,7 +4037,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly used on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly used on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
