@@ -2,7 +2,7 @@
 <html lang="ko" id="pc">
 <head>
 <meta charset="UTF-8" name="viewport" content="height=device-height, initial-scale=0.5, minimum-scale=0.5">
-<title>Kung-Fu Master Skill Tree Simulator</title>
+<title>Assassin Skill Tree Simulator</title>
 
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
@@ -32,7 +32,7 @@ function applyBuild() {
 	
 	try{
 		var c = $.parseJSON(obj);
-		if(String(c.character_job) != "KF") {
+		if(String(c.character_job) != "AS") {
 			document.getElementById('codearea').value = "Wrong class!!";
 			return;
 		}
@@ -53,14 +53,14 @@ function applyBuild() {
 		<div id="navbar">
 			<a class="m0" id="home" href="../index.html"><span>Di'el's Skill Tree Simulator for Blade & Soul</span></a>
 			<nav class="tab_tr">
-				<a class="m1" href="../BM/skillBM.html"><span>Blade Master</span></a>
-				<a class="m2 on" href="../KF/skillKF.html"><span>Kung-Fu Master</span></a>
-				<a class="m3" href="../DE/skillDE.html"><span>Destroyer</span></a>
-				<a class="m4" href="../FM/skillFM.html"><span>Force Master</span></a>
-				<a class="m5" href="../AS/skillAS.html"><span>Assassin</span></a>
-				<a class="m6" href="../SU/skillSU.html"><span>Summoner</span></a>
-				<a class="m7 " href="../SM/skillSM.html"><span>Lyn Blade Master</span></a>
-				<a class="m8" href="../WL/skillWL.html"><span>Warlock</span></a>
+				<a class="m1" href="../BM/page_BM.html"><span>Blade Master</span></a>
+				<a class="m2" href="../KF/page_KF.html"><span>Kung-Fu Master</span></a>
+				<a class="m3" href="../DE/page_DE.html"><span>Destroyer</span></a>
+				<a class="m4" href="../FM/page_FM.html"><span>Force Master</span></a>
+				<a class="m5 on" href="../AS/page_AS.html"><span>Assassin</span></a>
+				<a class="m6" href="../SU/page_SU.html"><span>Summoner</span></a>
+				<a class="m7" href="../SM/page_SM.html"><span>Lyn Blade Master</span></a>
+				<a class="m8" href="../WL/page_WL.html"><span>Warlock</span></a>
 				<a id="save" href="#" onclick="expand2()"><span>Save/Load Build</span></a>
 			</nav>
 		</div>
@@ -88,10 +88,10 @@ function applyBuild() {
 					<div class="trWrap" id="trainingWrap"></div>
 					
 					<script src="../training.min.js"></script>
-					<script src="../KF/category_data_KF.js"></script>
-					<script src="../KF/slot_data_KF.js"></script>
-					<script src="../KF/skill_data_KF.js"></script>
-					<script src="../KF/data_skill-tooltip_KF.js"></script>
+					<script src="../AS/category_data_AS.js"></script>
+					<script src="../AS/slot_data_AS.js"></script>
+					<script src="../AS/skill_data_AS.js"></script>
+					<script src="../AS/data_skill-tooltip_AS.js"></script>
 					<script src="../data_skill-tooltip-attribute.js"></script>
 					
 					<script type="text/javascript">
@@ -106,7 +106,7 @@ function applyBuild() {
 									containerSelector:".trWrap",
 									level: 50,
 									masteryLevel: 12,
-									job: "KF",
+									job: "AS",
 									masteryTitle: "Divine Level ",
 									maxLevel: 50
 									});

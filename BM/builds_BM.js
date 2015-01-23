@@ -1,16 +1,6 @@
 var _training;
 
 // PvE-------------------------------------------------------------------------------------------------------------
-
-function blank(){
-	(function($) {
-		$("#buildlist").animate({height:"100%"});
-		$(document).ready(function() {
-
-		});
-	})(jQuery);
-}
-
 function diel_pve_build1(){
 	(function($) {
 		$("#buildlist").animate({height:"0%"});

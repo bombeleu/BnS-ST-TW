@@ -2,7 +2,7 @@
 <html lang="ko" id="pc">
 <head>
 <meta charset="UTF-8" name="viewport" content="height=device-height, initial-scale=0.5, minimum-scale=0.5">
-<title>Blade Master Skill Tree Simulator</title>
+<title>Force Master Skill Tree Simulator</title>
 
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
@@ -19,7 +19,6 @@
 
 <script src="../jquerytools.js"></script>
 <script src="../extra.js"></script>
-<script src="BMbuilds.js"></script>
 
 <script type="text/javascript">
 function applyBuild() {
@@ -33,7 +32,7 @@ function applyBuild() {
 	
 	try{
 		var c = $.parseJSON(obj);
-		if(String(c.character_job) != "BM") {
+		if(String(c.character_job) != "FM") {
 			document.getElementById('codearea').value = "Wrong class!!";
 			return;
 		}
@@ -54,14 +53,14 @@ function applyBuild() {
 		<div id="navbar">
 			<a class="m0" id="home" href="../index.html"><span>Di'el's Skill Tree Simulator for Blade & Soul</span></a>
 			<nav class="tab_tr">
-				<a class="m1 on" href="../BM/skillBM.html"><span>Blade Master</span></a>
-				<a class="m2" href="../KF/skillKF.html"><span>Kung-Fu Master</span></a>
-				<a class="m3" href="../DE/skillDE.html"><span>Destroyer</span></a>
-				<a class="m4" href="../FM/skillFM.html"><span>Force Master</span></a>
-				<a class="m5" href="../AS/skillAS.html"><span>Assassin</span></a>
-				<a class="m6" href="../SU/skillSU.html"><span>Summoner</span></a>
-				<a class="m7" href="../SM/skillSM.html"><span>Lyn Blade Master</span></a>
-				<a class="m8" href="../WL/skillWL.html"><span>Warlock</span></a>
+				<a class="m1" href="../BM/page_BM.html"><span>Blade Master</span></a>
+				<a class="m2" href="../KF/page_KF.html"><span>Kung-Fu Master</span></a>
+				<a class="m3" href="../DE/page_DE.html"><span>Destroyer</span></a>
+				<a class="m4 on" href="../FM/page_FM.html"><span>Force Master</span></a>
+				<a class="m5" href="../AS/page_AS.html"><span>Assassin</span></a>
+				<a class="m6" href="../SU/page_SU.html"><span>Summoner</span></a>
+				<a class="m7" href="../SM/page_SM.html"><span>Lyn Blade Master</span></a>
+				<a class="m8" href="../WL/page_WL.html"><span>Warlock</span></a>
 				<a id="save" href="#" onclick="expand2()"><span>Save/Load Build</span></a>
 			</nav>
 		</div>
@@ -71,21 +70,12 @@ function applyBuild() {
 				<div class="builds">
 					<ul class="tabs" id="buildlist">
 						<li><a href="#" onclick="blank();" style="display:none;">Blank Template</a></li>
-						<p class="section">PvE</p>
-						<li><a href="#" onclick="diel_pve_build1();">
-							<p class="builder">Di'el's</p>
-							<p class="levelreq">Lv50 H12</p>
-							<p class="title">General Build</p>
 						</a></li>
 					</ul>
+					<p class="sideheader">Description</p>
 					<div class="panes">
 						<div>
 							</div>
-						<div>
-							<p class="date">General BM Build for H12 by Di'el</p>
-							No description<br>
-							</div>
-						<!-- pve-pvp boundary -->
 					</div>
 					<ul class="back">
 						<li><a onclick="blank();">Back to list</a></li>
@@ -98,10 +88,10 @@ function applyBuild() {
 					<div class="trWrap" id="trainingWrap"></div>
 					
 					<script src="../training.min.js"></script>
-					<script src="../BM/category_data_BM.js"></script>
-					<script src="../BM/slot_data_BM.js"></script>
-					<script src="../BM/skill_data_BM.js"></script>
-					<script src="../BM/data_skill-tooltip_BM.js"></script>
+					<script src="../FM/category_data_FM.js"></script>
+					<script src="../FM/slot_data_FM.js"></script>
+					<script src="../FM/skill_data_FM.js"></script>
+					<script src="../FM/data_skill-tooltip_FM.js"></script>
 					<script src="../data_skill-tooltip-attribute.js"></script>
 					
 					<script type="text/javascript">
@@ -116,7 +106,7 @@ function applyBuild() {
 									containerSelector:".trWrap",
 									level: 50,
 									masteryLevel: 12,
-									job: "BM",
+									job: "FM",
 									masteryTitle: "Divine Level ",
 									maxLevel: 50
 									});
