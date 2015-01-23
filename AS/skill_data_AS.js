@@ -3813,7 +3813,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_23.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Knock up foes",
+        "sub_info": "Knock foes into the air",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {

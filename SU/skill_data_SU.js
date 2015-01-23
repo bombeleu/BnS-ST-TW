@@ -5369,7 +5369,7 @@ var skill_data_SU = {
         "id": "26215",
         "name": "Uppercut - 올려치기",
         "icon": "skill_icon_summon_0_29.png",
-        "main_info1": "Knock up foes",
+        "main_info1": "Knock foes into the air",
         "main_info2": null,
         "sub_info": "Deals 30~35 damage",
         "consume_sp": "2",
