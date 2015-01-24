@@ -5051,7 +5051,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_21.png",
         "main_info1": "Familiar takes 90% less damage for 8 sec",
         "main_info2": null,
-        "sub_info": "30% chance to deal Tendril to the attacking target for 6 sec<br/>Familiar is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heals the familiar 2% of its maximum health on taking damage",
+        "sub_info": "Has a 30% chance to deal Tendril to the attacking target for 6 sec<br/>Familiar is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5435,7 +5435,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_30.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use",
+        "sub_info": "Familiar is invulnerable during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5467,7 +5467,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_30.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Flap Flap can be recast up to 2 times on critical hit<br/>User is invulnerable during use",
+        "sub_info": "Flap Flap can be recast up to 2 times on critical hit<br/>Familiar is invulnerable during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
