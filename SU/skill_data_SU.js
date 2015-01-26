@@ -2587,7 +2587,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2619,7 +2619,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2651,7 +2651,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2683,7 +2683,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2715,7 +2715,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Meditating allies are invulnerable<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Meditating allies are invulnerable<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2747,7 +2747,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2779,7 +2779,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2811,7 +2811,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Cooldown of Pollen is refreshed on kill with Burn Pollen<br/>User and allies generate 10% chi over 10 sec<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Cooldown of Pollen is refreshed on kill with Burn Pollen<br/>User and allies generate 10% chi over 10 sec<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
