@@ -256,15 +256,16 @@ ul {
 
 .tab_tr a {
 	float:left;
-    width:125px;
+    margin-left:35px;
     text-align:center;
-    color:#cfa36e;
+    color:#e2cbb7;
     text-decoration:none;
-	margin-top:36px;
+	margin-top:34px;
+	padding-bottom:10px;
 }
 
 .tab_tr a span {
-    font-size:13px;
+    font-size:15px;
     display:block;
     width:100%;
     font-weight:300;
@@ -272,11 +273,13 @@ ul {
 }
 
 .tab_tr a:hover {
-    color:#ffe4c3;
+    color:#fff3e4;
+	border-bottom:2px solid #fff3e4;
 }
 
 .tab_tr a.on {
-    color:#ffe4c3
+    color:#fff3e4;
+	border-bottom:2px solid #fff3e4;
 }
 
 #home{
