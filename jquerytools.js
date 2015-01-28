@@ -1601,7 +1601,7 @@
             a.detachEvent && a.detachEvent("on" + b, c)
         }, f.Event = function(a, b) {
             if (!(this instanceof f.Event)) return new f.Event(a, b);
-            a && a.type ? (this.originalEvent = a, this.type = a.type, this.isDefaultPrevented = a.defaultPrevented || a.returnValue === !1 || a.getPreventDefault && a.getPreventDefault() ? K : J) : this.type = a, b && f.extend(this, b), this.timeStamp = a && a.timeStamp || f.now(), this[f.expando] = !0
+            a && a.type ? (this.originalEvent = a, this.type = a.type, this.isDefaultPrevented = a.defaultPrevented || a.returnValue === !1 || a.defaultPrevented && a.defaultPrevented() ? K : J) : this.type = a, b && f.extend(this, b), this.timeStamp = a && a.timeStamp || f.now(), this[f.expando] = !0
         }, f.Event.prototype = {
             preventDefault: function() {
                 this.isDefaultPrevented = K;
