@@ -13,6 +13,10 @@ ul {
     list-style:none
 }
 
+strong {
+	font-weight:500
+}
+
 .wrap_mytraining{
 	position: relative;
 	top: 50%;
@@ -173,7 +177,7 @@ ul {
 }
 
 .categoryWrap dd {
-    color:#E4BD27
+    color:#eab614
 }
 
 .categoryWrap li {
@@ -410,7 +414,7 @@ ul {
 }
 
 .treeWrap .only em {
-    color:#E4BD27
+    color:#eab614
 }
 
 .tree_tp {
@@ -603,7 +607,6 @@ ul {
     width:28px;
     height:16px;
     padding-top:2px;
-    font-family:Tahoma;
     font-size:10px;
     text-align:center;
     color:#777;
@@ -795,9 +798,7 @@ ul {
 }
 
 .trWrap .header span {
-    font-family:맑은 고딕,Gulim,Dotum;
     font-size:12px;
-    font-weight:700
 }
 
 .trWrap .header .job {
@@ -948,8 +949,8 @@ ul {
     height:25px;
     padding-bottom:7px;
     font-size:14px;
-    font-weight:700;
-    color:#29c7e4
+    font-weight:500;
+    color:#6dc0cd
 }
 
 .matrix {
@@ -987,14 +988,14 @@ ul {
 .tooltip dd.main_info .main_info1 {
     margin-bottom:6px;
     font-size:13px;
-    font-weight:700;
+    font-weight:500;
     letter-spacing:0;
     color:#fff
 }
 
 .tooltip dd.main_info .main_info2 {
     font-size:11px;
-    font-weight:700;
+    font-weight:500;
     letter-spacing:0;
     color:#fff;
     line-height:1.3
@@ -1006,7 +1007,6 @@ ul {
     font-size:10px;
     letter-spacing:0;
     color:#fff;
-    line-height:1.4
 }
 
 /*color:#74f18d;*/

@@ -21,7 +21,7 @@
 
 a{
 	text-decoration:none;
-	color: #E4BD27;
+	color: #eab614;
 }
 
 .screen{
@@ -95,7 +95,7 @@ a{
 
 .date {
     color:#eab614;
-    font-weight:700;
+    font-weight:400;
     height:31px;
     font-size:16px;
 }
@@ -103,7 +103,7 @@ a{
 .section {
 	margin-top:10px;
     color:#fff;
-    font-weight:700;
+    font-weight:400;
     font-size:15px;
     line-height:25px;
     vertical-align:middle;
@@ -215,7 +215,7 @@ ul.tabs a.current,ul.tabs a.current:hover,ul.tabs li.current a {
 .desc {
     color:#eab614;
     padding:5px 15px;
-    font-weight:700
+    font-weight:400
 }
 
 ul::-webkit-scrollbar {
@@ -253,10 +253,10 @@ ul {
 	float:left;
     margin-left:35px;
     text-align:center;
-    color:#e2cbb7;
+    color:#ba9062;
     text-decoration:none;
 	margin-top:34px;
-	padding-bottom:10px;
+	padding-bottom:14px;
 }
 
 .tab_tr a span {
@@ -268,13 +268,13 @@ ul {
 }
 
 .tab_tr a:hover {
-    color:#fff3e4;
-	border-bottom:2px solid #fff3e4;
+    color:#ddc6b2;
+	border-bottom:2px solid #ddc6b2;
 }
 
 .tab_tr a.on {
-    color:#fff3e4;
-	border-bottom:2px solid #fff3e4;
+    color:#ddc6b2;
+	border-bottom:2px solid #ddc6b2;
 }
 
 #home{
@@ -331,18 +331,17 @@ textarea {
 }
 
 #close {
-	color:#fff;
+	color:#ba9062;
 	text-decoration:none;
 	float:right;
-	margin-top:-78px;
+	margin-top:-82px;
 	margin-right:20px;
-	font-weight:500;
-	font-size: 13px;
+	font-size: 15px;
 	position:relative;
 }
 
 #close:hover {
-    color:#E4BD27
+    color:#ddc6b2
 }
 
 progress {
