@@ -224,15 +224,15 @@ ul::-webkit-scrollbar {
 }
 
 ul::-webkit-scrollbar-thumb {
-    background-color:#eab614;
-    border-radius:2px
+    background-color:rgba(49,48,43,0.75);
+    border-radius:3px
 }
 
 ul {
     scrollbar-track-color:#000;
-    scrollbar-face-color:#eab614;
-    scrollbar-highlight-color:#eab614;
-    scrollbar-shadow-color:#eab614
+    scrollbar-face-color:rgba(49,48,43,0.75);
+    scrollbar-highlight-color:rgba(49,48,43,0.75);
+    scrollbar-shadow-color:rgba(49,48,43,0.75);
 }
 
 #navbar{
@@ -253,7 +253,7 @@ ul {
 	float:left;
     margin-left:35px;
     text-align:center;
-    color:#ba9062;
+    color:#B29F69;
     text-decoration:none;
 	margin-top:34px;
 	padding-bottom:14px;

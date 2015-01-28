@@ -177,7 +177,7 @@ strong {
 }
 
 .categoryWrap dd {
-    color:#eab614
+    color:#C7A94F
 }
 
 .categoryWrap li {
@@ -414,7 +414,7 @@ strong {
 }
 
 .treeWrap .only em {
-    color:#eab614
+    color:#C7A94F
 }
 
 .tree_tp {
@@ -804,21 +804,21 @@ strong {
 .trWrap .header .job {
     float:left;
     margin:8px 0 0 20px;
-    color:#eab614;
+    color:#C7A94F;
     font-size:12px
 }
 
 .trWrap .header .level {
     float:left;
     margin:8px 0 0 15px;
-    color:#eab614;
+    color:#C7A94F;
     font-size:12px
 }
 
 .trWrap .header .mastery_level {
     float:left;
     margin:8px 0 0 15px;
-    color:#eab614;
+    color:#C7A94F;
     font-size:12px
 }
 
@@ -874,7 +874,7 @@ strong {
 
 .trWrap .header .btn_reset {
 	float:right;
-	color:#eab614;
+	color:#C7A94F;
 	margin:8px 0 0 15px;
 	text-decoration:none;
 }
@@ -885,7 +885,7 @@ strong {
 
 .trWrap .header .btn_reset_all {
 	float:right;
-	color:#eab614;
+	color:#C7A94F;
 	margin:8px 15px 0 15px;
 	text-decoration:none;
 }
