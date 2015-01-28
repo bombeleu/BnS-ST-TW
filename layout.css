@@ -85,6 +85,7 @@ a{
 	padding:12px 15px 3px 15px;
 	color:#6dc0cd;
 	font-size:20px;
+	border-bottom:1px solid #324762;
 }
 
 .builds {
@@ -112,18 +113,12 @@ a{
 
 
 /* root element for tabs  */
-#buildlist {
+.tabs {
     list-style:none;
     margin:0!important;
     padding:0;
     border-bottom:1px solid #324762;
     height: 100%;
-    height: -webkit-calc(100% - 45px);
-    height: -moz-calc(100% - 45px);
-    height: calc(100% - 45px);
-    max-height: -webkit-calc(100% - 45px);
-    max-height: -moz-calc(100% - 45px);
-    max-height: calc(100% - 45px);
     overflow:auto;
     -webkit-overflow-scrolling:touch;
 }
@@ -199,7 +194,7 @@ ul.tabs a.current,ul.tabs a.current:hover,ul.tabs li.current a {
 
 /* initially all panes are hidden */
 .panes {
-    height:90%;
+    height:95%;
 }
 
 /* tab pane styling */
@@ -298,6 +293,7 @@ ul {
 
 #save{
 	float:right;
+	margin-right: 20px;
 }
 
 #savearea{

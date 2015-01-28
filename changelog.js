@@ -21,7 +21,7 @@ for(var d in changelog) {
 		for (var b in changelog[d]["attrib"]){
 			desc += b + "<br>" + changelog[d]["attrib"][b] + "<br>";
 		}
-		pane = "<div><p class=\"date\">" + changelog[d]["date"] + "</p>" + desc + "</div>";
+		pane = "<div><p class=\"date\">" + changelog[d]["date"] + "</p><br>" + desc + "</div>";
 	}
 	
 	$("#buildlist").append(tab);
