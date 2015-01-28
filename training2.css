@@ -35,7 +35,7 @@ strong {
 	overflow:hidden;
 	background: rgba(0,0,0,0.5) no-repeat 217px bottom;
 	border-style:solid;
-	border-color:rgba(228, 189, 39, 0.3);
+	border-color:#31302B;
 	border-width:1px;
 }
 
@@ -137,19 +137,19 @@ strong {
 
 .categoryBody::-webkit-scrollbar {
     width:5px;
-    background-color:rgba(0,0,0,0.8);
+    background-color:rgba(0,0,0,0.75);
 }
 
 .categoryBody::-webkit-scrollbar-thumb {
-    background-color:rgba(50,50,50,0.8);
+    background-color:rgba(49,48,43,0.75);
     border-radius:3px
 }
 
 .categoryBody {
-    scrollbar-track-color:rgba(0,0,0,0.8);
-    scrollbar-face-color:rgba(50,50,50,0.8);
-    scrollbar-highlight-color:rgba(50,50,50,0.8);
-    scrollbar-shadow-color:rgba(0,0,0,0.8)
+    scrollbar-track-color:rgba(0,0,0,0.75);
+    scrollbar-face-color:rgba(49,48,43,0.75);
+    scrollbar-highlight-color:rgba(49,48,43,0.75);
+    scrollbar-shadow-color:rgba(0,0,0,0.75)
 }
 
 .categoryWrap .bgt {
