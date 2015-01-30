@@ -177,15 +177,16 @@ strong {
 }
 
 .categoryWrap dd {
-    color:#eab614
+    color:#C7A94F
 }
 
 .categoryWrap li {
     position:relative;
     height:31px;
     font-size:10px;
+	line-height:1.4;
     overflow:hidden;
-    background:url(img/tr_v2.png) no-repeat 0 -40px
+    background:url(img/tr_v2.png) no-repeat 0 -40px;
 }
 
 .categoryWrap li:hover {
@@ -414,7 +415,7 @@ strong {
 }
 
 .treeWrap .only em {
-    color:#eab614
+    color:#C7A94F
 }
 
 .tree_tp {

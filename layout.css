@@ -1,20 +1,10 @@
 @font-face {
-   	font-family:Roboto-CLight;
-   src:url(fonts/RobotoCondensed-Light.ttf)
-}
-
-@font-face {
-   font-family:Roboto-Light;
-	src:url(fonts/Roboto-Light.ttf)
-}
-
-@font-face {
-   font-family:Roboto-Med;
-   src:url(fonts/Roboto-Medium.ttf)
+	font-family:NotoSans;
+	src:url(fonts/NotoSansCJKkr-Light.otf)
 }
 
 * {
-   font-family:Roboto-Medium,"Segoe UI","Helvetica Neue";
+   font-family:NotoSans,"Segoe UI","Helvetica Neue";
    margin:0;
    padding:0
 }
@@ -268,13 +258,13 @@ ul {
 }
 
 .tab_tr a:hover {
-    color:#ddc6b2;
-	border-bottom:2px solid #ddc6b2;
+    color:#ddd1b2;
+	border-bottom:2px solid #ddd1b2;
 }
 
 .tab_tr a.on {
-    color:#ddc6b2;
-	border-bottom:2px solid #ddc6b2;
+    color:#ddd1b2;
+	border-bottom:2px solid #ddd1b2;
 }
 
 #home{
@@ -301,7 +291,7 @@ ul {
 	float:right;
     padding-top:80px;
 	width: 20%;
-	right:-20%;
+	right:-21%;
 	height:100%;
 	background-color:rgba(0, 0, 0, 1);
 	position:fixed;

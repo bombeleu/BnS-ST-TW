@@ -20,7 +20,7 @@ function expand2(){
 
 function closesave(){
 	(function($) {
-		$("#savearea").animate({right:"-20%"});
+		$("#savearea").animate({right:"-21%"});
 	})(jQuery);
 }
 
