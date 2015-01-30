@@ -1,137 +1,131 @@
 @font-face {
-	font-family:NotoSansKR;
-	src:local(Noto Sans CJK KR), 
-        local(Noto Sans CJK),
-        url(fonts/NotoSansKR-Light.otf)
+    font-family:NotoSansKR;
+    src:local(Noto Sans CJK KR),local(Noto Sans CJK),url(fonts/NotoSansKR-Light.otf)
 }
 
 @font-face {
-	font-family:NotoSans;
-	src:local(Noto Sans),
-        url(fonts/NotoSans-Regular.ttf)
+    font-family:NotoSans;
+    src:local(Noto Sans),url(fonts/NotoSans-Regular.ttf)
 }
 
 @font-face {
-	font-family:TitilliumThin;
-	src:locsl(Titillium Web),
-        url(fonts/TitilliumWeb-ExtraLight.ttf)
+    font-family:TitilliumThin;
+    src:locsl(Titillium Web),url(fonts/TitilliumWeb-ExtraLight.ttf)
 }
 
 * {
-   font-family:NotoSans, NotoSansKR, "Segoe UI", "Helvetica Neue";
-   margin:0;
-   padding:0
+    font-family:NotoSans,NotoSansKR,"Segoe UI","Helvetica Neue";
+    margin:0;
+    padding:0
 }
 
-a{
-	text-decoration:none;
-	color: #eab614;
+a {
+    text-decoration:none;
+    color:#eab614
 }
 
-.screen{
-	background-color:#000000;
-	min-width:1400px;
-	min-height:900px;
-}
-	
-#window_wrap{
-	width:100%;
-	height:100vh;
-	overflow:hidden;
-	background:#000 url(img/home.jpg) no-repeat center 2px;
-	background-size:100% auto;
-	min-height:900px;
+.screen {
+    background-color:#000;
+    min-width:1400px;
+    min-height:900px
 }
 
-#content_wrap{
-	height: 100%;
-    height: -webkit-calc(100% - 80px);
-    height: -moz-calc(100% - 80px);
-    height: calc(100% - 80px);
-	margin-left:0px;
+#window_wrap {
+    width:100%;
+    height:100vh;
+    overflow:hidden;
+    background:#000 url(img/home.jpg) no-repeat center 2px;
+    background-size:100% auto;
+    min-height:900px
 }
 
-#mainsection{
-	margin-right:20%;
-	height:100%;
-	position:relative;
+#content_wrap {
+    height:100%;
+    height:-webkit-calc(100% - 80px);
+    height:-moz-calc(100% - 80px);
+    height:calc(100% - 80px);
+    margin-left:0
 }
 
-#maintext{
-	opacity: 0.5;
-	position:absolute;
-	bottom:100px;
-	left:40px;
+#mainsection {
+    margin-right:20%;
+    height:100%;
+    position:relative
 }
 
-#p1{
-	font-family:TitilliumThin;
-	color:#b29f69;
-	font-size:36px;
-	text-indent:7px;
+#maintext {
+    opacity:.5;
+    position:absolute;
+    bottom:100px;
+    left:40px
 }
 
-#p2{
-	font-family:TitilliumThin;
-	color:#ddd1b2;
-	font-size:90px;
-	line-height:0.9;
+#p1 {
+    font-family:TitilliumThin;
+    color:#b29f69;
+    font-size:36px;
+    text-indent:7px
 }
 
-#intro h1{
-	font-size:25px;
-	color:#eab614;
-	margin-bottom:10px;
+#p2 {
+    font-family:TitilliumThin;
+    color:#ddd1b2;
+    font-size:90px;
+    line-height:.9
 }
 
-#intro p{
-	font-size:14px;
-	color:#ffffff;
-	line-height:18px;
+#intro h1 {
+    font-size:25px;
+    color:#eab614;
+    margin-bottom:10px
 }
 
-#subsection{
-	float:right;
-	width: 20%;
-	height:100%;
-	background-color:rgba(0, 0, 0, 0.5);
-	background-size:100% auto;
-	border-left:1px solid #31302B;
-	overflow:hidden;
+#intro p {
+    font-size:14px;
+    color:#fff;
+    line-height:18px
 }
 
+#subsection {
+    float:right;
+    width:20%;
+    height:100%;
+    background-color:rgba(0,0,0,0.5);
+    background-size:100% auto;
+    border-left:1px solid #31302B;
+    overflow:hidden
+}
 
-.sideheader{
-	height:30px;
-	padding:12px 15px 3px 15px;
-	color:#6dc0cd;
-	font-size:20px;
-	border-bottom:1px solid #324762;
+.sideheader {
+    height:30px;
+    padding:12px 15px 3px;
+    color:#6dc0cd;
+    font-size:20px;
+    border-bottom:1px solid #324762
 }
 
 .builds {
-	height:100%;
-    overflow:hidden;
+    height:100%;
+    overflow:hidden
 }
 
 .date {
     color:#eab614;
     font-weight:400;
     height:31px;
-    font-size:16px;
+    font-size:16px
 }
 
 .section {
-	margin-top:10px;
+    margin-top:10px;
     color:#fff;
     font-weight:400;
     font-size:15px;
     line-height:25px;
     vertical-align:middle;
     height:25px;
-    text-indent:15px;
+    text-indent:15px
 }
-
 
 /* root element for tabs  */
 .tabs {
@@ -139,16 +133,16 @@ a{
     margin:0!important;
     padding:0;
     border-bottom:1px solid #324762;
-    height: 100%;
+    height:100%;
     overflow:auto;
-    -webkit-overflow-scrolling:touch;
+    -webkit-overflow-scrolling:touch
 }
 
 /* single tab */
 ul.tabs li {
     text-indent:0;
     padding:0;
-    margin:0!important;
+    margin:0!important
 }
 
 /* link inside the tab. uses a background image */
@@ -159,7 +153,7 @@ ul.tabs a,ul.back a {
     color:#fff;
     padding:10px 5px;
     text-decoration:none;
-    border-top:1px solid #324762;
+    border-top:1px solid #324762
 }
 
 p.builder {
@@ -215,22 +209,22 @@ ul.tabs a.current,ul.tabs a.current:hover,ul.tabs li.current a {
 
 /* initially all panes are hidden */
 .panes {
-    height:95%;
+    height:95%
 }
 
 /* tab pane styling */
 .panes div {
-    padding:15px 15px;
+    padding:15px;
     margin-right:15px;
     color:#fff;
     font-size:12px;
-    overflow-y:auto;
+    overflow-y:auto
 }
 
-.panes li{
-	padding-left: 20px;
-    text-indent: -1.1em;
-	list-style-position:inside;
+.panes li {
+    padding-left:20px;
+    text-indent:-1.1em;
+    list-style-position:inside
 }
 
 .desc {
@@ -253,31 +247,30 @@ ul {
     scrollbar-track-color:#000;
     scrollbar-face-color:rgba(49,48,43,0.75);
     scrollbar-highlight-color:rgba(49,48,43,0.75);
-    scrollbar-shadow-color:rgba(49,48,43,0.75);
+    scrollbar-shadow-color:rgba(49,48,43,0.75)
 }
 
-#navbar{
-	width:100%;
-	height:80px;
-	background-color:rgba(0,0,0,0.66);
-	border-bottom:1px solid #31302B;
-	overflow:hidden;
-	min-width:1400px;
+#navbar {
+    width:100%;
+    height:80px;
+    background-color:rgba(0,0,0,0.66);
+    border-bottom:1px solid #31302B;
+    overflow:hidden;
+    min-width:1400px
 }
-
 
 .tab_tr {
-	padding-top:10px;
+    padding-top:10px
 }
 
 .tab_tr a {
-	float:left;
+    float:left;
     margin-left:35px;
     text-align:center;
     color:#B29F69;
     text-decoration:none;
-	margin-top:34px;
-	padding-bottom:14px;
+    margin-top:34px;
+    padding-bottom:14px
 }
 
 .tab_tr a span {
@@ -285,64 +278,64 @@ ul {
     display:block;
     width:100%;
     font-weight:300;
-    overflow:hidden;
+    overflow:hidden
 }
 
 .tab_tr a:hover {
     color:#ddd1b2;
-	border-bottom:2px solid #ddd1b2;
+    border-bottom:2px solid #ddd1b2
 }
 
 .tab_tr a.on {
     color:#ddd1b2;
-	border-bottom:2px solid #ddd1b2;
+    border-bottom:2px solid #ddd1b2
 }
 
-#home{
-	float:left;
+#home {
+    float:left;
     display:block;
     height:60px;
-	width:360px;
+    width:360px;
     text-align:left;
     margin-left:15px;
-	margin-top:10px;
-	text-decoration:none;
-	background-image:url("img/logo.png");
-	background-repeat: no-repeat;
-	text-indent:-9999px;
+    margin-top:10px;
+    text-decoration:none;
+    background-image:url(img/logo.png);
+    background-repeat:no-repeat;
+    text-indent:-9999px
 }
 
-#save{
-	float:right;
-	margin-right: 20px;
+#save {
+    float:right;
+    margin-right:20px
 }
 
-#savearea{
-	border-left:1px solid #31302B;
-	float:right;
+#savearea {
+    border-left:1px solid #31302B;
+    float:right;
     padding-top:80px;
-	width: 20%;
-	right:-21%;
-	height:100%;
-	background-color:rgba(0, 0, 0, 1);
-	position:fixed;
-	top:0px;
-	color:#fff;
-	font-size:12px;
-	overflow:hidden;
+    width:20%;
+    right:-21%;
+    height:100%;
+    background-color:rgba(0,0,0,1);
+    position:fixed;
+    top:0;
+    color:#fff;
+    font-size:12px;
+    overflow:hidden
 }
 
-#savearea .instructions{
-	margin:0 15px;
+#savearea .instructions {
+    margin:0 15px
 }
 
 button {
     margin:19px;
-	margin-top:10px;
+    margin-top:10px;
     position:relative;
     bottom:8px;
     padding:3px;
-	display:block;
+    display:block;
     width:120px
 }
 
@@ -350,17 +343,17 @@ textarea {
     resize:none;
     width:90%;
     height:100px;
-    margin:18px;
+    margin:18px
 }
 
 #close {
-	color:#ba9062;
-	text-decoration:none;
-	float:right;
-	margin-top:-82px;
-	margin-right:20px;
-	font-size: 15px;
-	position:relative;
+    color:#ba9062;
+    text-decoration:none;
+    float:right;
+    margin-top:-82px;
+    margin-right:20px;
+    font-size:15px;
+    position:relative
 }
 
 #close:hover {
@@ -373,36 +366,46 @@ progress {
     margin-left:auto;
     margin-right:auto;
     display:block;
-    -webkit-appearance: none;
-    border: none;
+    -webkit-appearance:none;
+    border:none
 }
 
 progress::-webkit-progress-bar {
-    background: transparent;
+    background:transparent
 }
 
 progress::-webkit-progress-value {
-    background: transparent;
-    background-repeat: no-repeat;
-    background-image: url(img/progress.gif);
-    -webkit-animation: move 3s linear 0 infinite;
-    animation: move 3s linear 0 infinite;
+    background:transparent;
+    background-repeat:no-repeat;
+    background-image:url(img/progress.gif);
+    -webkit-animation:move 3s linear 0 infinite;
+    animation:move 3s linear 0 infinite
 }
 
-progress::-moz-progress-bar {  
-    background: transparent;
-    background-repeat: no-repeat;
-    background-image: url(img/progress.gif);
-    -webkit-animation: move 3s linear 0 infinite;
-    animation: move 3s linear 0 infinite;  
-}  
+progress::-moz-progress-bar {
+    background:transparent;
+    background-repeat:no-repeat;
+    background-image:url(img/progress.gif);
+    -webkit-animation:move 3s linear 0 infinite;
+    animation:move 3s linear 0 infinite
+}
 
 @-webkit-keyframes move {
-        0% {background-position: -100px 0px, 0 0, 0 0}
-        100% {background-position: 1035px 0px, 0 0, 0 0}
+    0% {
+        background-position:-100px 0px,0 0,0 0
+    }
+
+    100% {
+        background-position:1035px 0px,0 0,0 0
+    }
 }
 
 @keyframes move {
-        0% {background-position: -100px 0px, 0 0, 0 0}
-        100% {background-position: 1035px 0px, 0 0, 0 0}
+    0% {
+        background-position:-100px 0px,0 0,0 0
+    }
+
+    100% {
+        background-position:1035px 0px,0 0,0 0
+    }
 }

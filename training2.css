@@ -14,37 +14,37 @@ ul {
 }
 
 strong {
-	font-weight:500
+    font-weight:500
 }
 
-.wrap_mytraining{
-	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
+.wrap_mytraining {
+    position:relative;
+    top:50%;
+    transform:translateY(-50%)
 }
 
 .trWrap {
-	transform-origin:50% 50%;
-	-ms-transform-origin:50% 50%;
-	-webkit-transform-origin:50% 50%;
-	transform:scale(1.1);
-	-ms-transform:scale(1.1);
-	-webkit-transform:scale(1.1);
-	margin:auto;
-	width:940px;
-	overflow:hidden;
-	background: rgba(0,0,0,0.5) no-repeat 217px bottom;
-	border-style:solid;
-	border-color:#31302B;
-	border-width:1px;
+    transform-origin:50% 50%;
+    -ms-transform-origin:50% 50%;
+    -webkit-transform-origin:50% 50%;
+    transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    margin:auto;
+    width:940px;
+    overflow:hidden;
+    background:rgba(0,0,0,0.5) no-repeat 217px bottom;
+    border-style:solid;
+    border-color:#31302B;
+    border-width:1px
 }
 
 @media (min-width: 1600px) {
-    .trWrap {
-        transform:scale(1.2);
-		-ms-transform:scale(1.2);
-		-webkit-transform:scale(1.2);
-    }
+.trWrap {
+    transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    -webkit-transform:scale(1.2)
+}
 }
 
 .trWrap .header {
@@ -119,25 +119,21 @@ strong {
     width:100%;
     overflow:auto;
     min-height:413px;
-    background-color:rgba(35, 28, 20, 0.5);
-	
-	-moz-user-select: -moz-none;
-	-khtml-user-select: none;
-	-webkit-user-select: none;
-
-	/*
+    background-color:rgba(35,28,20,0.5);
+    -moz-user-select:-moz-none;
+    -khtml-user-select:none;
+    -webkit-user-select:none;
+/*
 	 Introduced in IE 10.
 	 See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
 	*/
-	-ms-user-select: none;
-	user-select: none;
+    -ms-user-select:none;
+    user-select:none
 }
-
-
 
 .categoryBody::-webkit-scrollbar {
     width:5px;
-    background-color:rgba(0,0,0,0.75);
+    background-color:rgba(0,0,0,0.75)
 }
 
 .categoryBody::-webkit-scrollbar-thumb {
@@ -184,9 +180,9 @@ strong {
     position:relative;
     height:31px;
     font-size:9.5px;
-	line-height:1.4;
+    line-height:1.4;
     overflow:hidden;
-    background:url(img/tr_v2.png) no-repeat 0 -40px;
+    background:url(img/tr_v2.png) no-repeat 0 -40px
 }
 
 .categoryWrap li:hover {
@@ -215,7 +211,7 @@ strong {
 .categoryWrap em {
     position:absolute;
     left:58px;
-	margin-top:1px;
+    margin-top:1px
 }
 
 .categoryWrap em.single {
@@ -234,8 +230,8 @@ strong {
     height:12px;
     padding:2px 0 0 4px;
     font-size:10px;
-	text-indent:1px;
-	line-height:1.2;
+    text-indent:1px;
+    line-height:1.2;
     color:#fff;
     background:url(img/tr_v2.png) no-repeat 0 -550px
 }
@@ -253,88 +249,88 @@ strong {
 
 .categoryWrap .key_LB {
     background-position:0 -300px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_RB {
     background-position:0 -310px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_F {
     background-position:0 -320px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_TAB {
     background-position:0 -330px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_1 {
     background-position:0 -340px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_2 {
     background-position:0 -350px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_3 {
     background-position:0 -360px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_4 {
     background-position:0 -370px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_Z {
     background-position:0 -380px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_X {
     background-position:0 -390px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_C {
     background-position:0 -400px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_V {
     background-position:0 -410px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_Q {
     background-position:0 -420px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_E {
     background-position:0 -430px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_W {
     background-position:0 -440px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_S {
     background-position:0 -450px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .key_NONE {
     height:12px;
     background-position:0 -460px;
-	display:none;
+    display:none
 }
 
 .categoryWrap .frame {
@@ -350,8 +346,8 @@ strong {
     background:url(img/tr_v2.png) no-repeat 0 -640px
 }
 
-.categoryWrap .hide{
-	display:none;
+.categoryWrap .hide {
+    display:none
 }
 
 .categoryWrap .disable .frame {
@@ -425,12 +421,12 @@ strong {
 }
 
 .treeWrap {
-	-webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+    -webkit-touch-callout:none;
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none
 }
 
 .treeWrap .only {
@@ -446,7 +442,7 @@ strong {
 
 .tree_tp {
     float:right;
-    margin:10px 0 0 0;
+    margin:10px 0 0;
     width:60px;
     height:18px;
     padding:2px 0 0 25px;
@@ -455,12 +451,12 @@ strong {
     font-size:14px
 }
 
-.tooltip .tree_tp{
-	font-size:12px;
-	position:absolute;
-	text-align:right;
-	right:5px;
-	width:95px;
+.tooltip .tree_tp {
+    font-size:12px;
+    position:absolute;
+    text-align:right;
+    right:5px;
+    width:95px
 }
 
 .treeWrap .tree_cols4 {
@@ -825,7 +821,7 @@ strong {
 }
 
 .trWrap .header span {
-    font-size:12px;
+    font-size:12px
 }
 
 .trWrap .header .job {
@@ -900,27 +896,22 @@ strong {
 }
 
 .trWrap .header .btn_reset {
-	float:right;
-	color:#C7A94F;
-	margin:8px 0 0 15px;
-	text-decoration:none;
-}
-
-.btn_reset:hover {
-	color:#fff;
+    float:right;
+    color:#C7A94F;
+    margin:8px 0 0 15px;
+    text-decoration:none
 }
 
 .trWrap .header .btn_reset_all {
-	float:right;
-	color:#C7A94F;
-	margin:8px 15px 0 15px;
-	text-decoration:none;
+    float:right;
+    color:#C7A94F;
+    margin:8px 15px 0;
+    text-decoration:none
 }
 
-.btn_reset_all:hover {
-	color:#fff;
+.trWrap .header .btn_reset:hover,.trWrap .header .btn_reset_all:hover {
+    color:#ddd1b2
 }
-
 
 .tooltipWrap {
     height:400px;
@@ -1033,7 +1024,7 @@ strong {
     padding-top:5px;
     font-size:10px;
     letter-spacing:0;
-    color:#fff;
+    color:#fff
 }
 
 /*color:#74f18d;*/
