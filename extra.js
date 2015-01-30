@@ -137,6 +137,8 @@ function queryUrl(job){
 	var j = getQueryVariable("build");
 	j = j.replace(/%20/g, ' ');
 	j = j.replace(/%22/g, '"');
+	j = j.replace(/%7B/g, '{');
+	j = j.replace(/%7D/g, '}');
 	
 	if (j){
 		try{
