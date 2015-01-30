@@ -8,6 +8,11 @@
 	src:url(fonts/NotoSans-Regular.ttf)
 }
 
+@font-face {
+	font-family:TitilliumThin;
+	src:url(fonts/TitilliumWeb-ExtraLight.ttf)
+}
+
 * {
    font-family:NotoSans, NotoSansKR, "Segoe UI", "Helvetica Neue";
    margin:0;
@@ -47,9 +52,25 @@ a{
 	height:100%;
 }
 
-#intro{
-	padding:50px 80px;
-	width:450px;
+#maintext{
+	opacity: 0.5;
+	position:absolute;
+	bottom:100px;
+	left:40px;
+}
+
+#p1{
+	font-family:TitilliumThin;
+	color:#b29f69;
+	font-size:36px;
+	text-indent:7px;
+}
+
+#p2{
+	font-family:TitilliumThin;
+	color:#ddd1b2;
+	font-size:90px;
+	line-height:0.9;
 }
 
 #intro h1{
@@ -251,11 +272,11 @@ ul {
     color:#B29F69;
     text-decoration:none;
 	margin-top:34px;
-	padding-bottom:11px;
+	padding-bottom:14px;
 }
 
 .tab_tr a span {
-    font-size:15px;
+    font-size:14px;
     display:block;
     width:100%;
     font-weight:300;
