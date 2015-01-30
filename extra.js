@@ -59,7 +59,7 @@ function generateBuild() {
 
 function generateUrl(job) {
 	var obj = objToJSONString(_training.getSendDataObj());
-	var base = "dakaringer.github.io/BnS-ST/" + job + "/page_" + job + ".html?build="
+	var base = "dakaringer.github.io/BnS-ST-TW/" + job + "/page_" + job + ".html?build="
 	document.getElementById('codearea').value = base + obj;
 }
 
