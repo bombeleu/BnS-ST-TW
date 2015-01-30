@@ -17,55 +17,104 @@
 <body class="screen">
 	<div id="window_wrap">
 		<div id="navbar">
-<<<<<<< HEAD
 			<a class="m0" id="home" href="index.html"><span>Di'el's Skill Tree Simulator for Blade & Soul for TW</span></a>
-=======
-			<a class="m0" id="home" href="index.html"><span>Di'el's Skill Tree Simulator for Blade & Soul</span></a>
->>>>>>> upstream/gh-pages
 			<nav class="tab_tr">
-				<a class="m1" href="BM/skillBM.html"><span>Blade Master</span></a>
-				<a class="m2" href="KF/skillKF.html"><span>Kung-Fu Master</span></a>
-				<a class="m3" href="DE/skillDE.html"><span>Destroyer</span></a>
-				<a class="m4" href="FM/skillFM.html"><span>Force Master</span></a>
-				<a class="m5" href="AS/skillAS.html"><span>Assassin</span></a>
-				<a class="m6" href="SU/skillSU.html"><span>Summoner</span></a>
-				<a class="m7" href="SM/skillSM.html"><span>Lyn Blade Master</span></a>
-				
+				<a class="m1" href="BM/page_BM.html"><span>Blade Master</span></a>
+				<a class="m2" href="KF/page_KF.html"><span>Kung-Fu Master</span></a>
+				<a class="m3" href="DE/page_DE.html"><span>Destroyer</span></a>
+				<a class="m4" href="FM/page_FM.html"><span>Force Master</span></a>
+				<a class="m5" href="AS/page_AS.html"><span>Assassin</span></a>
+				<a class="m6" href="SU/page_SU.html"><span>Summoner</span></a>
+				<a class="m7" href="SM/page_SM.html"><span>Lyn Blade Master</span></a>
 			</nav>
 		</div>
 		<div id="content_wrap">
 			<div id="subsection">
-				<p class="sideheader">Changelog</p>
 				<div class="builds">
+					
 					<ul class="tabs" id="buildlist">
 						<li><a href="#" onclick="blank();" style="display:none;">Blank Template</a></li>
+						<p class="sideheader">About</p>
 						<li><a href="#" onclick="expand();">
-							<p class="builder">Website</p>
-							<p class="levelreq"> </p>
-							<p class="title">January 19, 2015</p>
-						</a></li>
+								<p class="builder">Hello</p>
+								<p class="levelreq"></p>
+								<p class="title">Introduction</p>
+							</a></li>
+						<li><a href="#" onclick="expand();">
+								<p class="builder">Instructions</p>
+								<p class="levelreq"></p>
+								<p class="title">How to use</p>
+							</a></li>
+						<li><a href="#" onclick="expand();">
+								<p class="builder">Me</p>
+								<p class="levelreq"></p>
+								<p class="title">About the author</p>
+							</a></li>
+						<p class="sideheader">News</p>
 					</ul>
-					<div class="panes">
-						<div>
-							</div>
-						<div>
-							<p class="date">January 19, 2015</p>
-							Website<br>
-							<li>New branch site for TW</li>
-							</div>
+					<div class="panes" id="changedesc">
+						<div></div>
+						<div><p class="date">What is this?</p><br>
+						This is a fully English translated interactive skill tree simulator for Blade & Soul, a Korean Martial Fantasy MMORPG.<br>
+						<br>
+						The skill trees are based on BnS KR. Skills may or may not be the same as the ones you would see in other servers.
+						Everything is translated to English by me. Many skill names are accurate direct translations while some were given reasonable new names because they were difficult to translate. Some tooltips may be a bit different from the original for better consistency and clarity.<br>
+						<br>
+						This project was made possible by using many parts of the HTML, CSS, and JavaScript codes from the official BnS KR website.
+						Some elements however were modified for better presentation.
+						Additional features, namely the build list and the save/load box, were made by me.
+						Background images are either from the official BnS KR website posted by users or captured by me.<br>
+						<br>
+						This is a forked project of the <a href="http://bit.ly/14mfnbW">main BnS Skill Tree webside</a> intended for the TW server.<br>
+						The only difference is the level cap, skill points acquired at each level, and skill point requirements for some skills. Warlock is also unavailable.<br>
+						<br>
+						This section won't be fully supported by me since I don't play on TW.<br>
+						But you are free to fork the project from the <a href="http://bit.ly/15mmCSK">github repo</a> yourself, make some changes and send pull requests.
+						</div>
+						<div><p class="date">How to use</p><br>
+						Basic Controls
+						<li>Left click to learn</li>
+						<li>Right click to unlearn</li>
+						<li>Hover to display changes on the tooltip</li><br>
+						<br>
+						Extra Features
+						<li>Choose a featured build from this list on the right to instantly display a preset build</li>
+						<li>You can also save/load your own builds by using the "Save/Load Build" button on the top right</li><br>
+						<br>
+						How damage is calculated<br>
+						Skill damage is calculated by using the following formula:
+						<li>Min damage = (attack - weapon constant) * skill multiplier</li>
+						<li>Max damage = (attack + weapon constant) * skill multiplier</li>
+						<li>Skill multiplier depends on the skill, attribute, and talent</li>
+						<li>Weapon constant depends on the weapon the character is holding</li>
+						For this skill tree, all skills assume the following:
+						<li>The character has an attack of 13 for all levels</li>
+						<li>The character does not have a weapon equipped (weapon constant = 1)</li><br>
+						<br>
+						Level and skill points
+						<li>Characters earn 1 skill point starting from level 15 to 50</li>
+						<li>Characters earn 5 skill points upon leveling to divine level 1</li>
+						<li>Characters earn 1 skill point for every even divine level</li>
+						<li>Characters earn 2 skill points for every odd divine level</li>
+						</div>
+						<div><p class="date">About me</p><br>
+						<p>I'm just a regular college student who likes to play BnS.<br>
+						I am Korean Canadian and fluent in both languages which allows me to enjoy the game to its fullest. But I can imagine how others may struggle because of the language barrier which is one of the reasons why I started this project.<br><br>
+						I have several nicknames on the internet.
+						<li>Di'el on the <a href="http://www.bladeandsouldojo.com/">BnS Dojo Forums</a></li>
+						<li><a href="http://bns.plaync.com/bs/character/profile/%EC%95%84%EB%A5%B4%EC%95%A8?s=24">아르앨</a> in game.</li>
+						<li>dakaringer on <a href="http://www.twitch.tv/dakaringer">Twitch</a></li>
+						I stream from time to time so be sure to follow my channel!</div>
 					</div>
 					<ul class="back">
 						<li><a onclick="blank();">Back to list</a></li>
 					</ul>
 				</div>
+				
+				<script src="changelog.js"></script>
 			</div>
 			<div id="mainsection">
 				<div id="intro">
-					<p>This is a forked project of the <a href="http://bit.ly/14mfnbW">main BnS Skill Tree webside</a> intended for the TW server.<br>
-					The only difference is the level cap, skill points acquired at each level, and skill point requirements for some skills. Warlock is also unavailable.<br>
-					<br>
-					This section won't be fully supported by me since I don't play on TW.<br>
-					But you are free to fork the project from the <a href="http://bit.ly/15mmCSK">github repo</a> yourself, make some changes and send pull requests.</p>
 				</div>
 			</div>
 		</div>

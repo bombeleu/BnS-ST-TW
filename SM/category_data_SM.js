@@ -31,7 +31,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  "
 	},
 	"27103": 
 	{
@@ -65,7 +65,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27104": 
@@ -99,7 +99,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27109": 
@@ -128,7 +128,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27110": 
@@ -158,7 +158,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  "
 	},
 	"27113": 
 	{
@@ -190,7 +190,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27111": 
@@ -226,7 +226,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27200": 
@@ -262,7 +262,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27201": 
@@ -288,7 +288,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"27300": 
 	{
@@ -400,7 +400,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"27202": 
 	{
@@ -432,7 +432,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"27117": 
 	{
@@ -457,7 +457,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"27118": 
 	{
@@ -481,7 +481,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27129": 
@@ -517,7 +517,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"27133": 
 	{
@@ -542,7 +542,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
 	},
 	"27136": 
 	{
@@ -567,7 +567,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	"27152": 
 	{
@@ -592,7 +592,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"27126": 
 	{
@@ -626,7 +626,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance if Draw is learned  ",
 		"tooltip_condition_refine": null
 	},
 	"27400": 
@@ -658,7 +658,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"27405": 
 	{
@@ -689,7 +689,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"27304": 
 	{
@@ -750,7 +750,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
 	},
 	"27120": 
 	{
@@ -775,7 +775,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"27404": 
 	{
@@ -807,7 +807,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> On critical hit while in draw stance  "
 	},
 	"27144": 
 	{
@@ -838,7 +838,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27121": 
@@ -864,7 +864,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"27122": 
 	{
@@ -889,7 +889,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"27407": 
 	{
@@ -919,7 +919,7 @@ var category_data_SM = {
 			"1": "발도술",
 			"2": null
 		},
-		"tooltip_stance_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
+		"tooltip_stance_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  ",
 		"tooltip_condition_refine": null
 	},
 	"27305": 
@@ -945,7 +945,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"27127": 
 	{
@@ -970,7 +970,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"27130": 
 	{
@@ -995,7 +995,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"27203": 
 	{
@@ -1020,7 +1020,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	},
 	"27307": 
 	{
@@ -1048,7 +1048,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> Sword stance  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter skill  <br/><img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"27132": 
 	{
@@ -1073,7 +1073,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"27311": 
 	{
@@ -1098,7 +1098,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_swordmaster_0_4.png\' class=\'icon_in_description\' /> Using Force Grip on a foe with Soulblade Tempest  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_swordmaster_0_4.png\' class=\'icon_in_description\' /> Using Force Grip on a foe with Soulblade Tempest  "
 	},
 	"27632": 
 	{
@@ -1123,7 +1123,7 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> Draw stance  "
 	},
 	"27195": 
 	{
@@ -1148,6 +1148,6 @@ var category_data_SM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> Using Force Grip  "
 	}
 };

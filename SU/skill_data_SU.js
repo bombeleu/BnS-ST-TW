@@ -2235,7 +2235,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Foxtail can be used while the user is downed, dazed, stunned, unconscious<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
+        "sub_info": "Foxtail is available while the user is downed, dazed, stunned, unconscious<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2267,7 +2267,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Removes status effects<br/>Foxtail can be used while the user is under status effects<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
+        "sub_info": "Removes status effects<br/>Foxtail is available while the user is under status effects<br/>Cooldown of Foxtail becomes 1 min if it is used while the user is downed, dazed, stunned, unconscious<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Familiar is invulnerable during travel<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders<br/>Knock back foes 10m<br/>Cooldown of Evade is refreshed on hitting more than 4 foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2299,7 +2299,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Pulls nearby foes and downs them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Pulls nearby foes and down them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2331,7 +2331,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and downs them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and down them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2363,7 +2363,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and downs them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and down them for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2587,7 +2587,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2619,7 +2619,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2651,7 +2651,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2683,7 +2683,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2715,7 +2715,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Meditating allies are invulnerable<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Meditating allies are invulnerable<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2747,7 +2747,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2779,7 +2779,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2811,7 +2811,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_16.png",
         "main_info1": "User and allies wiithin the area are invulnerable to projectiles",
         "main_info2": null,
-        "sub_info": "Protects allies within the are from projectiles<br/>User is immune to stuns caused by deflect<br/>Cooldown of Pollen is refreshed on kill with Burn Pollen<br/>User and allies generate 10% chi over 10 sec<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Cooldown of Pollen is refreshed on kill with Burn Pollen<br/>User and allies generate 10% chi over 10 sec<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4187,7 +4187,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_28.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Replaces Meow~ with Twirl<br/>Automatically used by the familiar<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
+        "sub_info": "Meow~ is replaced with Twirl<br/>Automatically used by the familiar<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4219,7 +4219,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_28.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Replaces Meow~ with Twirl<br/>Automatically used by the familiar<br/>Twirl deflects 1 attack for 0.5 sec<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
+        "sub_info": "Meow~ is replaced with Twirl<br/>Automatically used by the familiar<br/>Twirl deflects 1 attack for 0.5 sec<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5051,7 +5051,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_21.png",
         "main_info1": "Familiar takes 90% less damage for 8 sec",
         "main_info2": null,
-        "sub_info": "30% chance to deal Tendril to the attacking target for 6 sec<br/>Familiar is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heals the familiar 2% of its maximum health on taking damage",
+        "sub_info": "Has a 30% chance to deal Tendril to the attacking target for 6 sec<br/>Familiar is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5369,7 +5369,7 @@ var skill_data_SU = {
         "id": "26215",
         "name": "Uppercut - 올려치기",
         "icon": "skill_icon_summon_0_29.png",
-        "main_info1": "Knock up foes",
+        "main_info1": "Knock foes into the air",
         "main_info2": null,
         "sub_info": "Deals 30~35 damage",
         "consume_sp": "2",
@@ -5435,7 +5435,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_30.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use",
+        "sub_info": "Familiar is invulnerable during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5467,7 +5467,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_30.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Flap Flap can be recast up to 2 times on critical hit<br/>User is invulnerable during use",
+        "sub_info": "Flap Flap can be recast up to 2 times on critical hit<br/>Familiar is invulnerable during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5691,7 +5691,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Friendship can be used while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5723,7 +5723,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec<br/>Friendship can be used while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec<br/>Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6074,7 +6074,7 @@ var skill_data_SU = {
         "name": "Awakened Rose - 각성 장미",
         "icon": "skill_icon_summon_0_47.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Available when Spiritualized",
+        "main_info2": "Available while Spiritualized",
         "sub_info": "Increased consecutive cast speed<br/>Increased projectile speed<br/>Applies 1 stack of Poison<br/>Applies 2 stacks of Poison on critical hit<br/>Poison decreases the defense of the target by 10% per stack<br/>Hornet can be instantly cast on critical hit<br/>Cooldown of Chestnut Burr, Throwing Chestnut Burr is decreased by 2 sec on critical hit<br/>Cannot be deflected<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "1",

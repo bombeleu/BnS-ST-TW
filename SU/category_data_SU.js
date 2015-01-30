@@ -22,7 +22,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> While the familiar is dead  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> While the familiar is dead  "
 	},
 	"26101": 
 	{
@@ -425,7 +425,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_16.png\' class=\'icon_in_description\' /> After using Pollen  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_summon_0_16.png\' class=\'icon_in_description\' /> After using Pollen  "
 	},
 	"26104": 
 	{
@@ -517,7 +517,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"26113": 
 	{
@@ -542,7 +542,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, groggy, unconscious  "
 	},
 	"26125": 
 	{
@@ -601,7 +601,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed, groggy, stunned, unconscious  <br/><img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
 	},
 	"26310": 
 	{
@@ -631,7 +631,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_17.png\' class=\'icon_in_description\' /> Target countered with Dandelion  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_10.png\' class=\'icon_in_description\' /> Target hit with pointless, Class1, Class2 Hornet <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_40.png\' class=\'icon_in_description\' /> Target with Ivy Poison  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_18.png\' class=\'icon_in_description\' /> Target hit with Class2 Press, UuDaDa  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_summon_0_17.png\' class=\'icon_in_description\' /> Target countered with Dandelion  <br/><img src=\'../img/skill/skill_icon_summon_0_10.png\' class=\'icon_in_description\' /> Target hit with pointless, Class1, Class2 Hornet <br/><img src=\'../img/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'../img/skill/skill_icon_summon_0_40.png\' class=\'icon_in_description\' /> Target with Ivy Poison  <br/><img src=\'../img/skill/skill_icon_summon_0_18.png\' class=\'icon_in_description\' /> Target hit with Class2 Press, UuDaDa  "
 	},
 	"26114": 
 	{
@@ -656,7 +656,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"26137": 
 	{
@@ -685,7 +685,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"26210": 
 	{
@@ -710,7 +710,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> While the familiar is downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> While the familiar is downed  "
 	},
 	"26214": 
 	{
@@ -735,7 +735,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_22.png\' class=\'icon_in_description\' /> Target with 5 stacks of Poison  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_22.png\' class=\'icon_in_description\' /> Target with 5 stacks of Poison  "
 	},
 	"26000": 
 	{
@@ -810,7 +810,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> Target frozen  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> Target rooted  <br/><img src=\'../img/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> Target frozen  "
 	},
 	"26209": 
 	{
@@ -866,7 +866,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
 	},
 	"26119": 
 	{
@@ -891,7 +891,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	"26219": 
 	{
@@ -916,7 +916,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While meditating, ally is meditating  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While meditating, ally is meditating  "
 	},
 	"26304": 
 	{
@@ -972,7 +972,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> While Friendship is active  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> While Friendship is active  "
 	},
 	"26215": 
 	{
@@ -997,7 +997,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target groggy, stunned  "
 	},
 	"26216": 
 	{
@@ -1024,7 +1024,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"26208": 
 	{
@@ -1049,7 +1049,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> Familiar using Press  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> Familiar using Press  "
 	},
 	"26217": 
 	{
@@ -1074,7 +1074,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While meditating  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While meditating  "
 	},
 	"26220": 
 	{
@@ -1099,7 +1099,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While dead, ally is dead  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While dead, ally is dead  "
 	},
 	"26203": 
 	{
@@ -1124,7 +1124,7 @@ var category_data_SU = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While dead  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> While dead  "
 	},
 	"26559": 
 	{

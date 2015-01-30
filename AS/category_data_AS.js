@@ -30,7 +30,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25006": 
 	{
@@ -96,7 +96,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25021": 
 	{
@@ -121,7 +121,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  "
 	},
 	"25120": 
 	{
@@ -150,7 +150,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25003": 
 	{
@@ -244,7 +244,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> On counter within 0.5 sec with Block of Wood  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> On counter within 0.5 sec with Block of Wood  "
 	},
 	"25007": 
 	{
@@ -281,7 +281,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25016": 
 	{
@@ -311,7 +311,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25010": 
 	{
@@ -343,7 +343,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target downed  <br/><img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> Target suppressed  "
 	},
 	"25034": 
 	{
@@ -371,7 +371,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25050": 
 	{
@@ -396,7 +396,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25111": 
 	{
@@ -428,7 +428,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25012": 
 	{
@@ -459,7 +459,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25022": 
 	{
@@ -537,7 +537,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25023": 
 	{
@@ -562,7 +562,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_1_16.png\' class=\'icon_in_description\' /> On hit with Leaf Sunder  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> While using Block of Wood  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_1_16.png\' class=\'icon_in_description\' /> On hit with Leaf Sunder  <br/><img src=\'../img/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> While using Block of Wood  <br/><img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25025": 
 	{
@@ -587,7 +587,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> Target using block, counter ability  "
 	},
 	"25030": 
 	{
@@ -612,7 +612,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, dazed, unconscious  "
 	},
 	"25049": 
 	{
@@ -637,7 +637,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> After using Stealth  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> After using Backtrack  <br/><img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> After using Stealth  "
 	},
 	"25019": 
 	{
@@ -666,7 +666,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed, unconscious  "
 	},
 	"25026": 
 	{
@@ -691,7 +691,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25029": 
 	{
@@ -716,7 +716,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"25043": 
 	{
@@ -741,7 +741,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While seized, force gripped  "
 	},
 	"25330": 
 	{
@@ -766,7 +766,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> While downed  "
 	},
 	"25128": 
 	{
@@ -791,7 +791,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25017": 
 	{
@@ -816,7 +816,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25018": 
 	{
@@ -844,7 +844,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_1_11.png\' class=\'icon_in_description\' /> On hit with Shadow Dagger  "
 	},
 	"25031": 
 	{
@@ -869,7 +869,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
 	},
 	"25032": 
 	{
@@ -894,7 +894,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"25051": 
 	{
@@ -919,7 +919,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> On evade  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> On resist  <br/><img src=\'../img/skill/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> On evade  "
 	},
 	"25044": 
 	{
@@ -944,7 +944,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> While suppressed, seized, force gripped  "
 	},
 	"25035": 
 	{
@@ -969,7 +969,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> While dashing, dash-jumping, gliding  "
 	},
 	"25033": 
 	{
@@ -994,7 +994,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> Target airborne  "
 	},
 	"25199": 
 	{
@@ -1022,7 +1022,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25214": 
 	{
@@ -1084,7 +1084,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_10.png\' class=\'icon_in_description\' /> After using Backtrack  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> While using Block of Wood  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_10.png\' class=\'icon_in_description\' /> After using Backtrack  <br/><img src=\'../img/skill/skill_icon_assassin_0_17.png\' class=\'icon_in_description\' /> While using Block of Wood  <br/><img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  "
 	},
 	"25009": 
 	{
@@ -1142,7 +1142,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> Target dazed, stunned  "
 	},
 	"25040": 
 	{
@@ -1167,7 +1167,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> Target bound by Silver Wire  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> Target bound by Silver Wire  "
 	},
 	"25038": 
 	{
@@ -1192,7 +1192,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> Target bound by Silver Wire  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> Target bound by Silver Wire  "
 	},
 	"25039": 
 	{
@@ -1217,7 +1217,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> Target bound by Silver Wire  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> Disruption stance  <br/><img src=\'../img/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> Target bound by Silver Wire  "
 	},
 	"25041": 
 	{
@@ -1272,7 +1272,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25263": 
 	{
@@ -1297,7 +1297,7 @@ var category_data_AS = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
+		"tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_assassin_0_8.png\' class=\'icon_in_description\' /> On critical hit with Heart Stab <br/><img src=\'../img/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> Stealth stance  "
 	},
 	"25013": 
 	{
