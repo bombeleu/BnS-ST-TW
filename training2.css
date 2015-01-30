@@ -234,6 +234,8 @@ strong {
     height:12px;
     padding:2px 0 0 4px;
     font-size:10px;
+	text-indent:1px;
+	line-height:1.2;
     color:#fff;
     background:url(img/tr_v2.png) no-repeat 0 -550px
 }
