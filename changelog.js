@@ -16,7 +16,7 @@ var changelog = {
 for(var d in changelog) {
 	var tab = "";
 	var pane = "";
-	console.log(d);
+	
 	if (changelog.hasOwnProperty(d)){
 		var categories = "";
 		for(var a in changelog[d]["attrib"]){
