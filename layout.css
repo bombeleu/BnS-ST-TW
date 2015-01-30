@@ -50,6 +50,7 @@ a{
 #mainsection{
 	margin-right:20%;
 	height:100%;
+	position:relative;
 }
 
 #maintext{
