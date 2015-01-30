@@ -108,15 +108,15 @@ function getQueryVariable(variable) {
 	return(false);
 }
 
-function queryUrl(){
+function queryUrl(job){
 	var j = getQueryVariable("build");
 	j = j.replace(/%20/g, ' ');
 	j = j.replace(/%22/g, '"');
-	console.log(j);
+	
 	if (j){
 		try{
 			var c = $.parseJSON(j);
-			if(String(c.character_job) != "WL") {
+			if(String(c.character_job) != job) {
 				document.getElementById('codearea').value = "Wrong class!!";
 				return;
 			}
