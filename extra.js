@@ -63,6 +63,31 @@ function generateUrl(job) {
 	document.getElementById('codearea').value = base + obj;
 }
 
+function applyBuild(job) {
+	var api = jQuery("ul.tabs").data("tabs");
+	api.click(0);
+			
+	var obj = trim(document.getElementById('codearea').value);
+	if (obj == ""){
+		return;
+	}
+	
+	try{
+		var c = $.parseJSON(obj);
+		if(String(c.character_job) != job) {
+			document.getElementById('codearea').value = "Wrong class!!";
+			return;
+		}
+		
+		_training.loadGetJsonData(obj);
+		document.getElementById('codearea').value = obj;
+	}
+	catch(err) {
+		document.getElementById('codearea').value = "Invalid input!!";
+		return;
+	}
+}
+
 function objToJSONString(obj) {
 	var isArray = (obj && obj.join && obj.pop && obj.push && obj.reverse && obj.shift && obj.slice && obj.splice);
 	var results = [];
@@ -108,15 +133,15 @@ function getQueryVariable(variable) {
 	return(false);
 }
 
-function queryUrl(){
+function queryUrl(job){
 	var j = getQueryVariable("build");
 	j = j.replace(/%20/g, ' ');
 	j = j.replace(/%22/g, '"');
-	console.log(j);
+	
 	if (j){
 		try{
 			var c = $.parseJSON(j);
-			if(String(c.character_job) != "WL") {
+			if(String(c.character_job) != job) {
 				document.getElementById('codearea').value = "Wrong class!!";
 				return;
 			}

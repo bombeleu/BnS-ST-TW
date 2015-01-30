@@ -48,7 +48,7 @@ function applyBuild() {
 </script>
 </head>
 
-<body class="screen" onload="queryUrl;">
+<body class="screen" onload="queryUrl('AS');">
 	<div id="window_wrap">
 		<div id="navbar">
 			<a class="m0" id="home" href="../index.html"><span>Di'el's Skill Tree Simulator for Blade & Soul</span></a>
@@ -61,7 +61,7 @@ function applyBuild() {
 				<a class="m6" href="../SU/page_SU.html"><span>Summoner</span></a>
 				<a class="m7" href="../SM/page_SM.html"><span>Lyn Blade Master</span></a>
 				<a class="m8" href="../WL/page_WL.html"><span>Warlock</span></a>
-				<a id="save" href="javaScript:void0;" onclick="expand2()"><span>Save/Load Build</span></a>
+				<a id="save" href="javaScript:void(0);" onclick="expand2()"><span>Save/Load Build</span></a>
 			</nav>
 		</div>
 		<div id="content_wrap">
@@ -69,7 +69,7 @@ function applyBuild() {
 				<p class="sideheader">Featured Builds</p>
 				<div class="builds">
 					<ul class="tabs" id="buildlist">
-						<li><a href="javaScript:void0;" onclick="blank();" style="display:none;">Blank Template</a></li>
+						<li><a href="javaScript:void(0);" onclick="blank();" style="display:none;">Blank Template</a></li>
 						</a></li>
 					</ul>
 					<div class="panes">
@@ -122,11 +122,11 @@ function applyBuild() {
 			</div>
 		</div>
 		<div id="savearea">
-			<p class="sideheader">Save/Load</p><a id="close" href="javaScript:void0;" onclick="closesave()"><span>Close</span></a>
+			<p class="sideheader">Save/Load</p><a id="close" href="javaScript:void(0);" onclick="closesave()"><span>Close</span></a>
 			<p class="instructions">Generate your code and save it with a simple text editor like notepad or paste your code in the box and hit apply to load your build.</p>
 			<textarea id="codearea"></textarea>
 			<button id="generateCode" onclick="generateBuild()">Generate Code</button>
-			<button id="applyCode" onclick="applyBuild()">Apply Code</button>
+			<button id="applyCode" onclick="applyBuild('AS')">Apply Code</button>
 			<button id="generateUrl" onclick="generateUrl('AS')">Generate Url</button>
 		</div>
 	</div>
