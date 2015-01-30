@@ -65,7 +65,6 @@ FM = force master
 KF = kung-fu master
 SM = lyn blade master
 SU = summoner
-WL = warlock
 
 In each class(XX) folder....
 bg.css - style used to set the background image on the sidebar
