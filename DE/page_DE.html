@@ -19,32 +19,13 @@
 
 <script src="../jquerytools.js"></script>
 <script src="../extra.js"></script>
-
-<script type="text/javascript">
-function applyBuild() {
-	var api = jQuery("ul.tabs").data("tabs");
-	api.click(0);
-			
-	var obj = trim(document.getElementById('codearea').value);
-	if (obj == ""){
-		return;
-	}
-	
-	try{
-		var c = $.parseJSON(obj);
-		if(String(c.character_job) != "DE") {
-			document.getElementById('codearea').value = "Wrong class!!";
-			return;
-		}
-		
-		_training.loadGetJsonData(obj);
-		document.getElementById('codearea').value = obj;
-	}
-	catch(err) {
-		document.getElementById('codearea').value = "Invalid input!!";
-		return;
-	}
-}
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.14/webfont.js"></script>
+<script>
+  WebFont.load({
+    custom: {
+      families: ['NotoSans', 'NotoSansKR']
+    }
+  });
 </script>
 </head>
 
@@ -70,7 +51,6 @@ function applyBuild() {
 				<div class="builds">
 					<ul class="tabs" id="buildlist">
 						<li><a href="javaScript:void(0);" onclick="blank();" style="display:none;">Blank Template</a></li>
-						</a></li>
 					</ul>
 					<div class="panes">
 						<div>
