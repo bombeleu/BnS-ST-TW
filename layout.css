@@ -1,16 +1,20 @@
 @font-face {
 	font-family:NotoSansKR;
-	src:url(fonts/NotoSansKR-Light.otf)
+	src:local(Noto Sans CJK KR), 
+        local(Noto Sans CJK),
+        url(fonts/NotoSansKR-Light.otf)
 }
 
 @font-face {
 	font-family:NotoSans;
-	src:url(fonts/NotoSans-Regular.ttf)
+	src:local(Noto Sans),
+        url(fonts/NotoSans-Regular.ttf)
 }
 
 @font-face {
 	font-family:TitilliumThin;
-	src:url(fonts/TitilliumWeb-ExtraLight.ttf)
+	src:locsl(Titillium Web),
+        url(fonts/TitilliumWeb-ExtraLight.ttf)
 }
 
 * {
