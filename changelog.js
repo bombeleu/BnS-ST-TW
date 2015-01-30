@@ -1,5 +1,11 @@
 var changelog = {
-	"20150127": {
+	"C20150129": {
+		"date": "January 29, 2015",
+		"attrib": {
+			"Site Update": "<br>You can now generate links to your build and load builds directly from the link!<li>This option can be found in the Save/Load menu</li>",
+		}
+	},
+	"C20150127": {
 		"date": "January 27, 2015",
 		"attrib": {
 			"Announcement": "<br>Changelog has been cleared and from now on will only be used to update big changes rather than simple minor translation fixes here and there. That said, you can still access the more detailed(?) commit history at <a href=\"https://github.com/dakaringer/BnS-ST/commits/gh-pages\">Github</a>.",
@@ -10,6 +16,7 @@ var changelog = {
 for(var d in changelog) {
 	var tab = "";
 	var pane = "";
+	console.log(d);
 	if (changelog.hasOwnProperty(d)){
 		var categories = "";
 		for(var a in changelog[d]["attrib"]){
