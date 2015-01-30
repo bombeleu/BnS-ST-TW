@@ -1,6 +1,6 @@
 @font-face {
 	font-family:NotoSansKR;
-	src:url(fonts/NotoSansCJKkr-Light.otf)
+	src:url(fonts/NotoSansKr-Light.otf)
 }
 
 @font-face {
@@ -251,7 +251,7 @@ ul {
     color:#B29F69;
     text-decoration:none;
 	margin-top:34px;
-	padding-bottom:14px;
+	padding-bottom:11px;
 }
 
 .tab_tr a span {
