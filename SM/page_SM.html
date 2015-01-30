@@ -61,7 +61,7 @@ function applyBuild() {
 				<a class="m5" href="../AS/page_AS.html"><span>Assassin</span></a>
 				<a class="m6" href="../SU/page_SU.html"><span>Summoner</span></a>
 				<a class="m7 on" href="../SM/page_SM.html"><span>Lyn Blade Master</span></a>
-				<a id="save" href="#" onclick="expand2()"><span>Save/Load Build</span></a>
+				<a id="save" href="javaScript:void0;" onclick="expand2()"><span>Save/Load Build</span></a>
 			</nav>
 		</div>
 		<div id="content_wrap">
@@ -69,7 +69,23 @@ function applyBuild() {
 				<div class="builds">
 					<p class="sideheader">Featured Builds</p>
 					<ul class="tabs" id="buildlist">
-						<li><a href="#" onclick="blank();" style="display:none;">Blank Template</a></li>
+<<<<<<< HEAD
+						<li><a href="javaScript:void0;" onclick="blank();" style="display:none;">Blank Template</a></li>
+=======
+						<li><a href="javaScript:void0;" onclick="blank();" style="display:none;">Blank Template</a></li>
+						<p class="sideheader">Featured PvE Builds</p>
+							<li><a href="javaScript:void0;" onclick="diel_pve_build1();">
+								<p class="builder">Di'el's</p>
+								<p class="levelreq">Lv50 H12</p>
+								<p class="title">Default Build</p>
+							</a></li>
+						<p class="sideheader">Featured PvP Builds</p>
+							<li><a href="javaScript:void0;" onclick="diel_pvp_build1();">
+								<p class="builder">Di'el's</p>
+								<p class="levelreq">Lv50 H12</p>
+								<p class="title">1v1 Build</p>
+							</a></li>
+>>>>>>> 16348a0a353b7cea5e5409978ab4c6e37760b3d9
 					</ul>
 					<div class="panes">
 						<div>
@@ -121,7 +137,7 @@ function applyBuild() {
 			</div>
 		</div>
 		<div id="savearea">
-			<p class="sideheader">Save/Load</p><a id="close" href="#" onclick="closesave()"><span>Close</span></a>
+			<p class="sideheader">Save/Load</p><a id="close" href="javaScript:void0;" onclick="closesave()"><span>Close</span></a>
 			<p class="instructions">Generate your code and save it with a simple text editor like notepad or paste your code in the box and hit apply to load your build.</p>
 			<textarea id="codearea"></textarea>
 			<button id="generateCode" onclick="generateBuild()">Generate Code</button>
