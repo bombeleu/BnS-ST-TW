@@ -53,10 +53,14 @@ function reset_all() {
 
 //document.getElementById("mytextarea").readOnly = true;
 function generateBuild() {
-	
 	var obj = objToJSONString(_training.getSendDataObj());
-	
 	document.getElementById('codearea').value = obj;
+}
+
+function generateUrl(job) {
+	var obj = objToJSONString(_training.getSendDataObj());
+	var base = "dakaringer.github.io/BnS-ST/" + job + "/page_" + job + ".html?build="
+	document.getElementById('codearea').value = base + obj;
 }
 
 function objToJSONString(obj) {
@@ -94,13 +98,35 @@ $(window).scroll(function () {
     tempScrollTop = $("div.categoryBody").scrollTop();
 });
 
-function getQueryVariable(variable)
-{
-       var query = window.location.search.substring(1);
-       var vars = query.split("&");
-       for (var i=0;i<vars.length;i++) {
-               var pair = vars[i].split("=");
-               if(pair[0] == variable){return pair[1];}
-       }
-       return(false);
+function getQueryVariable(variable) {
+	var query = window.location.search.substring(1);
+	var vars = query.split("&");
+	for (var i=0;i<vars.length;i++) {
+		   var pair = vars[i].split("=");
+		   if(pair[0] == variable){return pair[1];}
+	}
+	return(false);
+}
+
+function queryUrl(){
+	var j = getQueryVariable("build");
+	j = j.replace(/%20/g, ' ');
+	j = j.replace(/%22/g, '"');
+	console.log(j);
+	if (j){
+		try{
+			var c = $.parseJSON(j);
+			if(String(c.character_job) != "WL") {
+				document.getElementById('codearea').value = "Wrong class!!";
+				return;
+			}
+			
+			_training.loadGetJsonData(j);
+			document.getElementById('codearea').value = j;
+		}
+		catch(err) {
+			document.getElementById('codearea').value = "Invalid input!!";
+			return;
+		}
+	}
 }

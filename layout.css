@@ -317,9 +317,11 @@ ul {
 
 button {
     margin:19px;
+	margin-top:10px;
     position:relative;
     bottom:8px;
     padding:3px;
+	display:block;
     width:120px
 }
 
