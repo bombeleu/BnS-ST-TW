@@ -1,10 +1,15 @@
 @font-face {
-	font-family:NotoSans;
+	font-family:NotoSansKR;
 	src:url(fonts/NotoSansCJKkr-Light.otf)
 }
 
+@font-face {
+	font-family:NotoSans;
+	src:url(fonts/NotoSans-Regular.ttf)
+}
+
 * {
-   font-family:NotoSans,"Segoe UI","Helvetica Neue";
+   font-family:NotoSansKR, NotoSans, "Segoe UI", "Helvetica Neue";
    margin:0;
    padding:0
 }
