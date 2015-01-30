@@ -18165,4 +18165,4 @@ var data_skill_tooltip = {
             }
         }
     }
-}
+};

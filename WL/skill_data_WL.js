@@ -5429,4 +5429,4 @@ var skill_data_WL = {
             }
         }
     }
-}
+};

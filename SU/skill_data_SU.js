@@ -6101,4 +6101,4 @@ var skill_data_SU = {
             }
         }
     }
-}
+};

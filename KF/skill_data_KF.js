@@ -6975,4 +6975,4 @@ var skill_data_KF = {
             }
         }
     }
-}
+};
