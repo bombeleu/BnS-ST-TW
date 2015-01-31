@@ -5727,4 +5727,4 @@ var skill_data_AS = {
             }
         }
     }
-}
+};

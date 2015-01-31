@@ -7039,4 +7039,4 @@ var skill_data_FM = {
             }
         }
     }
-}
+};

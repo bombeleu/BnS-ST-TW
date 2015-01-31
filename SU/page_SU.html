@@ -19,32 +19,13 @@
 
 <script src="../jquerytools.js"></script>
 <script src="../extra.js"></script>
-
-<script type="text/javascript">
-function applyBuild() {
-	var api = jQuery("ul.tabs").data("tabs");
-	api.click(0);
-			
-	var obj = trim(document.getElementById('codearea').value);
-	if (obj == ""){
-		return;
-	}
-	
-	try{
-		var c = $.parseJSON(obj);
-		if(String(c.character_job) != "SU") {
-			document.getElementById('codearea').value = "Wrong class!!";
-			return;
-		}
-		
-		_training.loadGetJsonData(obj);
-		document.getElementById('codearea').value = obj;
-	}
-	catch(err) {
-		document.getElementById('codearea').value = "Invalid input!!";
-		return;
-	}
-}
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script>
+<script>
+  WebFont.load({
+    custom: {
+      families: ['NotoSans', 'NotoSansKR']
+    }
+  });
 </script>
 </head>
 
@@ -69,14 +50,13 @@ function applyBuild() {
 				<div class="builds">
 					<ul class="tabs" id="buildlist">
 						<li><a href="javaScript:void(0);" onclick="blank();" style="display:none;">Blank Template</a></li>
-						</a></li>
 					</ul>
 					<div class="panes">
 						<div>
 							</div>
 					</div>
 					<ul class="back">
-						<li><a onclick="blank();">Back to list</a></li>
+						<li><a onclick="blank();">Back</a></li>
 					</ul>
 				</div>
 			</div>
@@ -122,10 +102,10 @@ function applyBuild() {
 		</div>
 		<div id="savearea">
 			<p class="sideheader">Save/Load</p><a id="close" href="javaScript:void(0);" onclick="closesave()"><span>Close</span></a>
-			<p class="instructions">Generate your code and save it with a simple text editor like notepad or paste your code in the box and hit apply to load your build.</p>
+			<p class="instructions">Generate your code and save your build with a simple text editor like notepad or paste your code in the box and hit apply to load your build.<br><br>You can also generate a url that you can use to link to your build. Keep in mind that the generated url can be very long. Consider using a url shortener.</p>
 			<textarea id="codearea"></textarea>
 			<button id="generateCode" onclick="generateBuild()">Generate Code</button>
-			<button id="applyCode" onclick="applyBuild()">Apply Code</button>
+			<button id="applyCode" onclick="applyBuild('SU')">Apply Code</button>
 			<button id="generateUrl" onclick="generateUrl('SU')">Generate Url</button>
 		</div>
 	</div>

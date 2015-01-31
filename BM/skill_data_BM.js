@@ -6399,4 +6399,4 @@ var skill_data_BM = {
             }
         }
     }
-}
+};

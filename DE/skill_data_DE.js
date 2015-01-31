@@ -6879,4 +6879,4 @@ var skill_data_DE = {
             }
         }
     }
-}
+};
